@@ -1,0 +1,12 @@
+services:
+  app:
+    image: eric03742/netrunner-server:latest
+    container_name: netrunner-server
+    restart: always
+    environment:
+      - PORT=3203
+    ports:
+      - "3203:3203"
+    volumes:
+      - /Users/lytinker/Project/ns:/app
+    network_mode: "bridge"
