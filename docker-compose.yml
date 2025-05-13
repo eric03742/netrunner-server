@@ -1,0 +1,8 @@
+services:
+  app:
+    image: eric03742/netrunner-server:v0.0.1
+    container_name: netrunner-server
+    environment:
+      - PORT=3203
+    ports:
+      - "3203:3203"
