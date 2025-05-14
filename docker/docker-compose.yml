@@ -8,5 +8,5 @@ services:
     ports:
       - "3203:3203"
     volumes:
-      - /Users/lytinker/Project/ns:/app
+      - /opt/netrunner-server:/app
     network_mode: "bridge"

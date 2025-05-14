@@ -1,8 +1,8 @@
 FROM node:20
 
-VOLUME ["/app"]
+COPY docker/entrypoint.sh /
 
-WORKDIR /app
+WORKDIR /usr/src/app
 
 COPY package*.json ./
 
@@ -12,6 +12,8 @@ COPY . .
 
 RUN npm run build
 
-ENV NODE_ENV=production
+VOLUME /app
 
-CMD ["node", "dist/main"]
+WORKDIR /app
+
+ENTRYPOINT ["bash", "/entrypoint.sh"]
