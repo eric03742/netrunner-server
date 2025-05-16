@@ -32,5 +32,6 @@
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
     "useUnknownInCatchVariables": true
-  }
+  },
+  "exclude": ["toolbox"]
 }

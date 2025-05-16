@@ -1,46 +1,24 @@
 import "reflect-metadata";
 import fs from "fs";
 import path from "path";
-import { DataSource } from "typeorm";
 
-import {
-    SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
-    SettypeEntity, CycleEntity, SetEntity,
-    FormatEntity, PoolEntity, RestrictionEntity, SnapshotEntity,
-    CardEntity, PrintingEntity, RulingEntity,
-} from "netrunner-entities";
+import { PrintingEntity } from "netrunner-entities";
+
+import { NetrunnerDataSource } from "./data-source";
 
 const IMAGE_SIZE = [
     "tiny", "small", "medium", "large",
 ];
 const IMAGE_URL = "https://card-images.netrunnerdb.com/v2";
 const OUTPUT_FOLDER = "static/card-scans";
-const DATABASE_FILENAME = "db/netrunner.sqlite";
 
 let exist_count = 0;
 let download_count = 0;
 let failed_count = 0;
 
-const AppDataSource = new DataSource({
-    database: DATABASE_FILENAME,
-    type: "better-sqlite3",
-    logging: [
-        "error", "warn", "info", "log",
-    ],
-    entities: [
-        SideEntity, FactionEntity, TypeEntity, SubtypeEntity,
-        SettypeEntity, CycleEntity, SetEntity,
-        FormatEntity, PoolEntity, RestrictionEntity, SnapshotEntity,
-        CardEntity, PrintingEntity, RulingEntity
-    ],
-    prepareDatabase: db => {
-        db.pragma('journal_mode = WAL');
-    },
-});
-
 async function initialize(): Promise<void> {
-    await AppDataSource.initialize();
-    console.log(`SQLite database '${DATABASE_FILENAME}' connected!`);
+    await NetrunnerDataSource.initialize();
+    console.log(`Database connected!`);
 
     exist_count = 0;
     download_count = 0;
@@ -48,7 +26,7 @@ async function initialize(): Promise<void> {
 }
 
 async function terminate(): Promise<void> {
-    await AppDataSource.destroy();
+    await NetrunnerDataSource.destroy();
 }
 
 function sleep(milliseconds: number): Promise<void> {
@@ -80,7 +58,7 @@ async function download(codename: string, face: number = -1): Promise<void> {
 }
 
 async function extract(): Promise<void> {
-    const repository = AppDataSource.getRepository(PrintingEntity);
+    const repository = NetrunnerDataSource.getRepository(PrintingEntity);
     const entries = await repository.find({
         select: [
             "codename", "extra_face",
