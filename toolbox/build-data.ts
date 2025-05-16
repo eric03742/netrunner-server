@@ -12,7 +12,7 @@ import {
 
 import { NetrunnerDataSource } from "./data-source";
 
-const OUTPUT_FOLDER = "static/card-texts";
+const OUTPUT_FOLDER = path.join(__dirname, "../static/card-texts");
 
 async function initialize(): Promise<void> {
     await NetrunnerDataSource.initialize();

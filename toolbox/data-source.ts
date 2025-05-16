@@ -1,4 +1,5 @@
 import "reflect-metadata";
+import path from "path";
 import { DataSource } from "typeorm";
 
 import {
@@ -8,7 +9,7 @@ import {
     CardEntity, PrintingEntity, RulingEntity,
 } from "netrunner-entities";
 
-const DATABASE_FILENAME = "db/netrunner.sqlite";
+const DATABASE_FILENAME = path.join(__dirname, "../db/netrunner.sqlite");
 
 export const NetrunnerDataSource = new DataSource({
     database: DATABASE_FILENAME,

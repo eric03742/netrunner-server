@@ -10,7 +10,7 @@ const IMAGE_SIZE = [
     "tiny", "small", "medium", "large",
 ];
 const IMAGE_URL = "https://card-images.netrunnerdb.com/v2";
-const OUTPUT_FOLDER = "static/card-scans";
+const OUTPUT_FOLDER = path.join(__dirname, "../static/card-scans");
 
 let exist_count = 0;
 let download_count = 0;
