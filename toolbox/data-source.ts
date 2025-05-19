@@ -9,7 +9,7 @@ import {
     CardEntity, PrintingEntity, RulingEntity,
 } from "netrunner-entities";
 
-const DATABASE_FILENAME = path.join(__dirname, "../db/netrunner.sqlite");
+const DATABASE_FILENAME = path.resolve(__dirname, "../db/netrunner.sqlite");
 
 export const NetrunnerDataSource = new DataSource({
     database: DATABASE_FILENAME,
