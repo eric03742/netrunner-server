@@ -4383,7 +4383,7 @@
     "locale_title": "B-1001",
     "stripped_title": "B-1001",
     "oracle_text": "<strong>Remove 1 tag:</strong> End the run. Use this ability only during a run against another server.",
-    "locale_text": "<strong>移除1枚锁定标记:</strong> 终止本次潜袭。仅能在对另一台服务器的潜袭中使用本能力。",
+    "locale_text": "<strong>移除1枚锁定标记:</strong> 终止本次潜袭。本能力仅能在对另一台服务器的潜袭中使用。",
     "stripped_text": "Remove 1 tag: End the run. Use this ability only during a run against another server.",
     "type_codename": "asset",
     "subtype_codenames": [
@@ -49251,7 +49251,7 @@
     "locale_title": "暗潮汹涌",
     "stripped_title": "Rising Tide",
     "oracle_text": "This program gets +1 strength for each <strong>fracter</strong> in your heap.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "locale_text": "你的堆阵中每有一个<strong>破解器</strong>，本程序的强度+1。\n对接 → <strong>1[credit]：</strong>破解1条<strong>屏障</strong>子进程。\n<strong>1[credit]：</strong>强度+1。",
+    "locale_text": "你的堆阵中每有一个<strong>分解模块</strong>，本程序的强度+1。\n对接 → <strong>1[credit]：</strong>破解1条<strong>屏障</strong>子进程。\n<strong>1[credit]：</strong>强度+1。",
     "stripped_text": "This program gets +1 strength for each fracter in your heap. Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength.",
     "type_codename": "program",
     "subtype_codenames": [

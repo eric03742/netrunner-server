@@ -1,4 +1,4 @@
-NRDB编号,序号,英文循环名,中文循环名,英文卡包名,中文卡包名,英文名称,中文名称,英文文本,中文文本,英文风味文字,中文风味文字,英文阵营,中文阵营,英文派系,中文派系,英文类型,中文类型,英文子类型,中文子类型,是否独有,构筑张数限制,推进需求,议案分数,基础中转,牌组最小张数,牌组影响力上限,费用,强度,内存费用,销毁费用,影响力费用,卡图作者
+ID,序号,英文循环名,中文循环名,英文卡包名,中文卡包名,英文名称,中文名称,英文文本,中文文本,英文风味文字,中文风味文字,英文阵营,中文阵营,英文派系,中文派系,英文类型,中文类型,英文子类型,中文子类型,是否独有,构筑张数限制,推进需求,议案分数,基础中转,牌组最小张数,牌组影响力上限,费用,强度,内存费用,销毁费用,影响力费用,卡图作者
 00005,5,Draft,轮抽系列,Draft,轮抽系列,The Shadow: Pulling the Strings,幽影: 暗中操纵,"Draft format only.
 You can use agendas from all factions in this deck.","轮抽赛制限定。
 你在本牌组中可以使用所有派系的议案。",The Past is the Future.,过往即未来。,Corp,公司,Neutral Corp,中立公司,Corp Identity,公司特性,Megacorp,巨型公司,,1,,,,30,,,,,,,Sławomir Maniak
@@ -5977,7 +5977,7 @@ When the Runner accesses this upgrade while it is rezzed, you may pay 2[credit] 
 34064,64,Liberation,解放,The Automata Initiative,自动机倡议,Tucana,巨嘴鸟,"Remote server only.
 Persistent → Whenever an agenda is scored or stolen from the root of this server, you may search R&D for 1 piece of ice. <em>(Shuffle R&D after searching it.)</em> Install and rez that ice, paying a total of 3[credit] less.","仅能安装在远程服务器。
 持久 → 每当一个议案从本服务器的根目录被计分或窃取时，你可以在研发中心搜寻1个防火墙。<em>（在搜寻研发中心后将其洗混。）</em>安装并激活该防火墙，总费用减3[credit]。","Their mouths are ever open, blaring sirens never to cease.",它们的喙永不闭合，汽笛般的鸣响不绝于耳。,Corp,公司,Weyland Consortium,威兰财团,Upgrade,升级,,,是,3,,,,,,2,,,1,3,Liiga Smilshkalne
-34065,65,Liberation,解放,The Automata Initiative,自动机倡议,B-1001,B-1001,<strong>Remove 1 tag:</strong> End the run. Use this ability only during a run against another server.,<strong>移除1枚锁定标记:</strong> 终止本次潜袭。仅能在对另一台服务器的潜袭中使用本能力。,"""Humans crafted me as a lie, but my patron helped me find the truth. This is my gift.""",“人类将我塑造成谎言，但我的守护神帮我找到了真相。这是我的礼物。”,Corp,公司,Neutral Corp,中立公司,Asset,资产,Bioroid - Enforcer,生化人 - 执法者,是,3,,,,,,1,,,3,0,Mauricio Herrera
+34065,65,Liberation,解放,The Automata Initiative,自动机倡议,B-1001,B-1001,<strong>Remove 1 tag:</strong> End the run. Use this ability only during a run against another server.,<strong>移除1枚锁定标记:</strong> 终止本次潜袭。本能力仅能在对另一台服务器的潜袭中使用。,"""Humans crafted me as a lie, but my patron helped me find the truth. This is my gift.""",“人类将我塑造成谎言，但我的守护神帮我找到了真相。这是我的礼物。”,Corp,公司,Neutral Corp,中立公司,Asset,资产,Bioroid - Enforcer,生化人 - 执法者,是,3,,,,,,1,,,3,0,Mauricio Herrera
 34066,66,Liberation,解放,Rebellion Without Rehearsal,即兴叛乱,Sebastião Souza Pessoa: Activist Organizer,塞巴斯蒂昂·索萨·佩索阿: 激进分子组织者,"Whenever you take 1 or more tags, if you had no tags, you may install 1 <strong>connection</strong> resource from your grip, paying 2[credit] less.
 As an additional cost to trash a <strong>connection</strong> resource with the basic action, the Corp must trash 1 card from HQ.","每当你拿取1枚或更多锁定标记时，如果你原来没有锁定标记，你可以从你的操控器安装1个<strong>人脉</strong>资源，其安装费用减2[credit]。
 作为通过基础行动销毁一个<strong>人脉</strong>资源的额外费用，公司必须从总部销毁1张卡牌。",Destroy the mechanisms of domination.,摧毁统治的机制。,Runner,潜袭者,Anarch,反叛者,Runner Identity,潜袭者特性,G-mod,转基因人,,1,,,0,45,15,,,,,,Matheus Calza
@@ -6287,7 +6287,7 @@ Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subrou
 —拉图·玛哈拉尼，病毒驯师",Runner,潜袭者,Anarch,反叛者,Program,程序,Icebreaker - Killer - Virus,破解器 - 断路模块 - 病毒,,3,,,,,,3,2,1,,2,Júlio Rocha
 35009,9,Elevation,仰望,Elevation,仰望,Rising Tide,暗潮汹涌,"This program gets +1 strength for each <strong>fracter</strong> in your heap.
 Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.
-<strong>1[credit]:</strong> +1 strength.","你的堆阵中每有一个<strong>破解器</strong>，本程序的强度+1。
+<strong>1[credit]:</strong> +1 strength.","你的堆阵中每有一个<strong>分解模块</strong>，本程序的强度+1。
 对接 → <strong>1[credit]：</strong>破解1条<strong>屏障</strong>子进程。
 <strong>1[credit]：</strong>强度+1。","The waters begin to roil, and bit by bit they swell.",水面开始翻腾，暗潮逐渐汹涌。,Runner,潜袭者,Anarch,反叛者,Program,程序,Fracter - Icebreaker,分解模块 - 破解器,,3,,,,,,1,1,1,,2,Scott Uminga
 35010,10,Elevation,仰望,Elevation,仰望,Cacophony,喧嚣,"The first time each turn you steal or trash a Corp card, place 1 power counter on this resource.

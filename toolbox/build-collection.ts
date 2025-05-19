@@ -37,7 +37,7 @@ async function extract(): Promise<void> {
     
     
     const header = [
-        "NRDB编号", "序号",
+        "ID", "序号",
         "英文循环名", "中文循环名",
         "英文卡包名","中文卡包名",
         "英文名称", "中文名称",
