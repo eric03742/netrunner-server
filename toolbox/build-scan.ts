@@ -42,7 +42,7 @@ async function download(codename: string, face: number = -1): Promise<void> {
             exist_count += 1;
             continue;
         }
-        
+
         const result = await fetch(url);
         if(result.ok) {
             const buffer = await result.bytes();
@@ -79,7 +79,7 @@ async function extract(): Promise<void> {
             }
         }
     }
-    
+
     console.log(`Total: ${exist_count} Skipped, ${download_count} Downloaded, ${failed_count} Failed!`);
 }
 

@@ -34,8 +34,8 @@ async function extract(): Promise<void> {
             codename: "ASC",
         },
     });
-    
-    
+
+
     const header = [
         "ID", "序号",
         "英文循环名", "中文循环名",
@@ -52,7 +52,7 @@ async function extract(): Promise<void> {
         "牌组最小张数", "牌组影响力上限", "费用", "强度",
         "内存费用", "销毁费用", "影响力费用", "卡图作者"
     ];
-    
+
     const collector = new Array<Array<string>>();
     collector.push(header);
     for(const printing of printing_entities) {
@@ -62,7 +62,7 @@ async function extract(): Promise<void> {
             oracle_subtypes.push(subtype.oracle_name);
             locale_subtypes.push(subtype.locale_name);
         }
-        
+
         const row = [
             printing.codename, printing.position.toString(),
             printing.set.cycle.oracle_name, printing.set.cycle.locale_name,
@@ -88,7 +88,7 @@ async function extract(): Promise<void> {
             (printing.card.influence_cost == undefined ? "" : printing.card.influence_cost.toString()),
             printing.illustrator
         ];
-        
+
         collector.push(row);
     }
 
