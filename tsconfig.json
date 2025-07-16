@@ -31,7 +31,8 @@
     "strictFunctionTypes": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
-    "useUnknownInCatchVariables": true
+    "useUnknownInCatchVariables": true,
+    "resolveJsonModule": true
   },
   "exclude": ["toolbox"]
 }

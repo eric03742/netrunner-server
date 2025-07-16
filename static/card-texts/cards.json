@@ -64,7 +64,7 @@
   {
     "codename": "419_amoral_scammer",
     "oracle_title": "419: Amoral Scammer",
-    "locale_title": "",
+    "locale_title": "419: 非道德骗徒",
     "stripped_title": "419: Amoral Scammer",
     "oracle_text": "The first time the Corp installs a card each turn, you may expose that card unless the Corp pays 1[credit].",
     "locale_text": "",
@@ -297,7 +297,7 @@
   {
     "codename": "acacia",
     "oracle_title": "Acacia",
-    "locale_title": "",
+    "locale_title": "金合欢",
     "stripped_title": "Acacia",
     "oracle_text": "Whenever the Corp purges virus counters, you may gain 1[credit] for each virus counter removed and trash Acacia.",
     "locale_text": "",
@@ -459,7 +459,7 @@
   {
     "codename": "acme_consulting_the_truth_you_need",
     "oracle_title": "Acme Consulting: The Truth You Need",
-    "locale_title": "",
+    "locale_title": "极致咨询: 你所需的真相",
     "stripped_title": "Acme Consulting: The Truth You Need",
     "oracle_text": "The Runner is considered to have 1 additional tag (even if they have 0) during encounters with the outermost piece of ice protecting any server.",
     "locale_text": "",
@@ -623,7 +623,7 @@
   {
     "codename": "adept",
     "oracle_title": "Adept",
-    "locale_title": "",
+    "locale_title": "大匠",
     "stripped_title": "Adept",
     "oracle_text": "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or <strong>barrier</strong> subroutine.",
     "locale_text": "",
@@ -724,7 +724,7 @@
   {
     "codename": "adonis_campaign",
     "oracle_title": "Adonis Campaign",
-    "locale_title": "",
+    "locale_title": "阿多尼斯营销计划",
     "stripped_title": "Adonis Campaign",
     "oracle_text": "Put 12[credit] from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.\nTake 3[credit] from Adonis Campaign when your turn begins.",
     "locale_text": "",
@@ -858,7 +858,7 @@
   {
     "codename": "aeneas_informant",
     "oracle_title": "Aeneas Informant",
-    "locale_title": "",
+    "locale_title": "埃涅阿斯线人",
     "stripped_title": "Aeneas Informant",
     "oracle_text": "Whenever you access a card with a trash cost not in Archives and do not trash it, you may reveal it and gain 1[credit].",
     "locale_text": "",
@@ -1023,7 +1023,7 @@
   {
     "codename": "aggressive_secretary",
     "oracle_title": "Aggressive Secretary",
-    "locale_title": "",
+    "locale_title": "激进的助理",
     "stripped_title": "Aggressive Secretary",
     "oracle_text": "Aggressive Secretary can be advanced.\nIf you pay 2[credit] when the Runner accesses Aggressive Secretary, trash 1 program for each advancement token on Aggressive Secretary.",
     "locale_text": "",
@@ -1192,7 +1192,7 @@
   {
     "codename": "aimor",
     "oracle_title": "Aimor",
-    "locale_title": "",
+    "locale_title": "埃漠",
     "stripped_title": "Aimor",
     "oracle_text": "[subroutine] Trash the top 3 cards of the stack. Trash Aimor.",
     "locale_text": "",
@@ -1258,7 +1258,7 @@
   {
     "codename": "akamatsu_mem_chip",
     "oracle_title": "Akamatsu Mem Chip",
-    "locale_title": "",
+    "locale_title": "赤松内存芯片",
     "stripped_title": "Akamatsu Mem Chip",
     "oracle_text": "+1[mu]",
     "locale_text": "",
@@ -1324,7 +1324,7 @@
   {
     "codename": "akiko_nisei_head_case",
     "oracle_title": "Akiko Nisei: Head Case",
-    "locale_title": "",
+    "locale_title": "亚纪子·次代: 首起谜案",
     "stripped_title": "Akiko Nisei: Head Case",
     "oracle_text": "Whenever you breach R&D, you and the Corp secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card.",
     "locale_text": "",
@@ -1488,7 +1488,7 @@
   {
     "codename": "algernon",
     "oracle_title": "Algernon",
-    "locale_title": "",
+    "locale_title": "阿尔吉侬",
     "stripped_title": "Algernon",
     "oracle_text": "When your turn begins, you may pay 2[credit] to gain [click]. If you do, trash Algernon when your turn ends if you did not make a successful run this turn.",
     "locale_text": "",
@@ -1652,7 +1652,7 @@
   {
     "codename": "all_nighter",
     "oracle_title": "All-nighter",
-    "locale_title": "",
+    "locale_title": "夜猫子",
     "stripped_title": "All-nighter",
     "oracle_text": "[click], [trash]: Gain [click][click].",
     "locale_text": "",
@@ -1815,7 +1815,7 @@
   {
     "codename": "amani_senai",
     "oracle_title": "Amani Senai",
-    "locale_title": "",
+    "locale_title": "阿曼尼·塞奈",
     "stripped_title": "Amani Senai",
     "oracle_text": "Whenever an agenda is scored or stolen, you may trace[X]. If successful, add an installed Runner card to the grip. X is the advancement requirement of the scored or stolen agenda.",
     "locale_text": "",
@@ -1979,7 +1979,7 @@
   {
     "codename": "amina",
     "oracle_title": "Amina",
-    "locale_title": "",
+    "locale_title": "阿米娜",
     "stripped_title": "Amina",
     "oracle_text": "Interface → <strong>2[credit]:</strong> Break up to 3 <strong>code gate</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nThe first time each turn this program fully breaks a piece of ice, the Corp loses 1[credit].",
     "locale_text": "",
@@ -2139,7 +2139,7 @@
   {
     "codename": "anansi",
     "oracle_title": "Anansi",
-    "locale_title": "",
+    "locale_title": "阿南西",
     "stripped_title": "Anansi",
     "oracle_text": "Whenever an encounter with this ice ends, if the Runner did not fully break it, do 3 net damage.\n[subroutine] Look at the top 5 cards of R&D and arrange them in any order.\n[subroutine] You may draw 1 card. The Runner may pay 2[credit] to draw 1 card.\n[subroutine] Do 1 net damage.",
     "locale_text": "",
@@ -2439,7 +2439,7 @@
   {
     "codename": "anonymous_tip",
     "oracle_title": "Anonymous Tip",
-    "locale_title": "",
+    "locale_title": "匿名信息",
     "stripped_title": "Anonymous Tip",
     "oracle_text": "Draw 3 cards.",
     "locale_text": "",
@@ -2670,7 +2670,7 @@
   {
     "codename": "api_s_keeper_isobel",
     "oracle_title": "API-S Keeper Isobel",
-    "locale_title": "",
+    "locale_title": "API-S保管员伊莎贝尔",
     "stripped_title": "API-S Keeper Isobel",
     "oracle_text": "When your turn begins, you may remove an advancement token from an installed card to gain 3[credit].",
     "locale_text": "",
@@ -2734,7 +2734,7 @@
   {
     "codename": "ar_enhanced_security",
     "oracle_title": "AR-Enhanced Security",
-    "locale_title": "",
+    "locale_title": "AR强化防卫",
     "stripped_title": "AR-Enhanced Security",
     "oracle_text": "The first time each turn the Runner trashes a Corp card, give them 1 tag.",
     "locale_text": "",
@@ -2964,7 +2964,7 @@
   {
     "codename": "arella_salvatore",
     "oracle_title": "Arella Salvatore",
-    "locale_title": "",
+    "locale_title": "阿蕾拉·萨尔瓦托雷",
     "stripped_title": "Arella Salvatore",
     "oracle_text": "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it.",
     "locale_text": "",
@@ -3194,7 +3194,7 @@
   {
     "codename": "armed_intimidation",
     "oracle_title": "Armed Intimidation",
-    "locale_title": "",
+    "locale_title": "持械恐吓",
     "stripped_title": "Armed Intimidation",
     "oracle_text": "When you score Armed Intimidation, the Runner must either suffer 5 meat damage or take 2 tags.",
     "locale_text": "",
@@ -3227,7 +3227,7 @@
   {
     "codename": "armitage_codebusting",
     "oracle_title": "Armitage Codebusting",
-    "locale_title": "",
+    "locale_title": "阿米蒂奇代码破解",
     "stripped_title": "Armitage Codebusting",
     "oracle_text": "Place 12[credit] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n[click]: Take 2[credit] from Armitage Codebusting.",
     "locale_text": "",
@@ -3260,7 +3260,7 @@
   {
     "codename": "armored_servers",
     "oracle_title": "Armored Servers",
-    "locale_title": "",
+    "locale_title": "装甲服务器",
     "stripped_title": "Armored Servers",
     "oracle_text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> For the remainder of this run, the Runner must trash 1 card from the grip as an additional cost to jack out or break a subroutine. Use this ability only during a run.",
     "locale_text": "",
@@ -3426,7 +3426,7 @@
   {
     "codename": "asa_group_security_through_vigilance",
     "oracle_title": "Asa Group: Security Through Vigilance",
-    "locale_title": "",
+    "locale_title": "亚撒集团：安全戒备",
     "stripped_title": "Asa Group: Security Through Vigilance",
     "oracle_text": "The first time each turn you install a card, you may install 1 non-agenda card from HQ in the root of or protecting the same server.",
     "locale_text": "",
@@ -3459,7 +3459,7 @@
   {
     "codename": "ash_2x3zb9cy",
     "oracle_title": "Ash 2X3ZB9CY",
-    "locale_title": "",
+    "locale_title": "尘埃2X3ZB9CY",
     "stripped_title": "Ash 2X3ZB9CY",
     "oracle_text": "Whenever there is a successful run on this server, Trace[4]. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
     "locale_text": "",
@@ -3626,7 +3626,7 @@
   {
     "codename": "assimilator",
     "oracle_title": "Assimilator",
-    "locale_title": "",
+    "locale_title": "同化者",
     "stripped_title": "Assimilator",
     "oracle_text": "[click],[click]: Turn one of your facedown installed cards faceup. If that card is an event, trash it.",
     "locale_text": "",
@@ -3826,7 +3826,7 @@
   {
     "codename": "attitude_adjustment",
     "oracle_title": "Attitude Adjustment",
-    "locale_title": "",
+    "locale_title": "动态调整",
     "stripped_title": "Attitude Adjustment",
     "oracle_text": "Draw 2 cards. Reveal up to 2 agendas in HQ and/or Archives. Gain 2[credit] for each agenda revealed, then shuffle those agendas into R&D.",
     "locale_text": "",
@@ -3921,7 +3921,7 @@
   {
     "codename": "audacity",
     "oracle_title": "Audacity",
-    "locale_title": "",
+    "locale_title": "无畏",
     "stripped_title": "Audacity",
     "oracle_text": "Play only if there are at least 2 other cards in HQ.\nTrash all cards from HQ. Place a total of 2 advancement counters on installed cards you can advance.",
     "locale_text": "",
@@ -3987,7 +3987,7 @@
   {
     "codename": "aumakua",
     "oracle_title": "Aumakua",
-    "locale_title": "",
+    "locale_title": "奥玛库阿",
     "stripped_title": "Aumakua",
     "oracle_text": "This program gets +1 strength for each hosted virus counter.\nWhenever you expose a card, place 1 virus counter on this program.\nWhenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.\nInterface → <strong>1[credit]:</strong> Break 1 subroutine.",
     "locale_text": "",
@@ -4022,7 +4022,7 @@
   {
     "codename": "aurora",
     "oracle_title": "Aurora",
-    "locale_title": "",
+    "locale_title": "极光",
     "stripped_title": "Aurora",
     "oracle_text": "Interface → <strong>2[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
     "locale_text": "",
@@ -4056,7 +4056,7 @@
   {
     "codename": "authenticator",
     "oracle_title": "Authenticator",
-    "locale_title": "",
+    "locale_title": "认证者",
     "stripped_title": "Authenticator",
     "oracle_text": "When the Runner encounters this ice, they may take 1 tag to bypass it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] End the run.",
     "locale_text": "",
@@ -4347,7 +4347,7 @@
   {
     "codename": "azmari_edtech_shaping_the_future",
     "oracle_title": "Azmari EdTech: Shaping the Future",
-    "locale_title": "",
+    "locale_title": "阿兹玛里教育科技: 塑造未来",
     "stripped_title": "Azmari EdTech: Shaping the Future",
     "oracle_text": "When your turn ends, you may name a card type. Gain 2[credit] the first time each turn the Runner plays or installs a card that has the type you last named this way.",
     "locale_text": "",
@@ -4547,7 +4547,7 @@
   {
     "codename": "bacterial_programming",
     "oracle_title": "Bacterial Programming",
-    "locale_title": "",
+    "locale_title": "细菌编程",
     "stripped_title": "Bacterial Programming",
     "oracle_text": "When Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order.",
     "locale_text": "",
@@ -4779,7 +4779,7 @@
   {
     "codename": "bamboo_dome",
     "oracle_title": "Bamboo Dome",
-    "locale_title": "",
+    "locale_title": "竹园穹顶",
     "stripped_title": "Bamboo Dome",
     "oracle_text": "Install only in the root of R&D.\n[click]: Reveal the top 3 cards of R&D. Secretly choose 1 to add to HQ. Return the others to the top of R&D, in any order.\nLimit 1 <strong>region</strong> per server.",
     "locale_text": "",
@@ -4878,7 +4878,7 @@
   {
     "codename": "bank_job",
     "oracle_title": "Bank Job",
-    "locale_title": "",
+    "locale_title": "银行任职",
     "stripped_title": "Bank Job",
     "oracle_text": "When you install this resource, load 8[credit] on it. When it is empty, trash it.\nWhenever you make a successful run on a remote server, instead of breaching that server, you may take any number of credits from this resource.",
     "locale_text": "",
@@ -4911,7 +4911,7 @@
   {
     "codename": "bankroll",
     "oracle_title": "Bankroll",
-    "locale_title": "",
+    "locale_title": "资金",
     "stripped_title": "Bankroll",
     "oracle_text": "Whenever you make a successful run, you may place 1[credit] from the bank on Bankroll.\n[trash]: Take all credits from Bankroll.",
     "locale_text": "",
@@ -5143,7 +5143,7 @@
   {
     "codename": "battering_ram",
     "oracle_title": "Battering Ram",
-    "locale_title": "",
+    "locale_title": "破门槌",
     "stripped_title": "Battering Ram",
     "oracle_text": "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength for the remainder of this run.",
     "locale_text": "",
@@ -5177,7 +5177,7 @@
   {
     "codename": "battlement",
     "oracle_title": "Battlement",
-    "locale_title": "",
+    "locale_title": "城垛",
     "stripped_title": "Battlement",
     "oracle_text": "[subroutine]End the run.\n[subroutine]End the run.",
     "locale_text": "",
@@ -5275,7 +5275,7 @@
   {
     "codename": "beanstalk_royalties",
     "oracle_title": "Beanstalk Royalties",
-    "locale_title": "",
+    "locale_title": "豆茎授权金",
     "stripped_title": "Beanstalk Royalties",
     "oracle_text": "Gain 3[credit].",
     "locale_text": "",
@@ -5341,7 +5341,7 @@
   {
     "codename": "because_i_can",
     "oracle_title": "Because I Can",
-    "locale_title": "",
+    "locale_title": "只因我能",
     "stripped_title": "Because I Can",
     "oracle_text": "Run a remote server. If successful, instead of breaching that server, you may force the Corp to shuffle all cards in the root of that server into R&D.",
     "locale_text": "",
@@ -5507,7 +5507,7 @@
   {
     "codename": "bernice_mai",
     "oracle_title": "Bernice Mai",
-    "locale_title": "",
+    "locale_title": "柏妮丝·麦",
     "stripped_title": "Bernice Mai",
     "oracle_text": "Whenever there is a successful run on this server, Trace[5]. If successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai.",
     "locale_text": "",
@@ -5540,7 +5540,7 @@
   {
     "codename": "berserker",
     "oracle_title": "Berserker",
-    "locale_title": "",
+    "locale_title": "狂战士",
     "stripped_title": "Berserker",
     "oracle_text": "Whenever you encounter a <strong>barrier</strong>, for the remainder of that encounter this program gets +1 strength for each subroutine on that <strong>barrier</strong>.\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.",
     "locale_text": "",
@@ -5640,7 +5640,7 @@
   {
     "codename": "better_citizen_program",
     "oracle_title": "Better Citizen Program",
-    "locale_title": "",
+    "locale_title": "更好市民计划",
     "stripped_title": "Better Citizen Program",
     "oracle_text": "The first time the Runner plays a <strong>run</strong> event or installs an <strong>icebreaker</strong> program each turn, you may give the Runner 1 tag.",
     "locale_text": "",
@@ -5706,7 +5706,7 @@
   {
     "codename": "biased_reporting",
     "oracle_title": "Biased Reporting",
-    "locale_title": "",
+    "locale_title": "偏见报道",
     "stripped_title": "Biased Reporting",
     "oracle_text": "Choose resource, hardware, or program. The Runner may trash any of their installed cards of the chosen type and gain 1[credit] for each card trashed this way. Gain 2[credit] for each card of the chosen type that is still installed.",
     "locale_text": "",
@@ -5969,7 +5969,7 @@
   {
     "codename": "bio_vault",
     "oracle_title": "Bio Vault",
-    "locale_title": "",
+    "locale_title": "生命密库",
     "stripped_title": "Bio Vault",
     "oracle_text": "Remote server only.\nYou can advance this upgrade.\n[trash], <strong>2 hosted advancement counters:</strong> End the run. Use this ability only during a run.",
     "locale_text": "",
@@ -6002,7 +6002,7 @@
   {
     "codename": "biometric_spoofing",
     "oracle_title": "Biometric Spoofing",
-    "locale_title": "",
+    "locale_title": "冒用生物特征",
     "stripped_title": "Biometric Spoofing",
     "oracle_text": "[interrupt] → [trash]<strong>:</strong> Prevent 2 damage.",
     "locale_text": "",
@@ -6066,7 +6066,7 @@
   {
     "codename": "bioroid_work_crew",
     "oracle_title": "Bioroid Work Crew",
-    "locale_title": "",
+    "locale_title": "生化人工作队",
     "stripped_title": "Bioroid Work Crew",
     "oracle_text": "<strong>[trash]:</strong> Install 1 card from HQ. Use this ability only during the next paid ability window after playing and resolving an operation.",
     "locale_text": "",
@@ -6164,7 +6164,7 @@
   {
     "codename": "black_hat",
     "oracle_title": "Black Hat",
-    "locale_title": "",
+    "locale_title": "黑帽",
     "stripped_title": "Black Hat",
     "oracle_text": "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
     "locale_text": "",
@@ -6526,7 +6526,7 @@
   {
     "codename": "blockchain",
     "oracle_title": "Blockchain",
-    "locale_title": "",
+    "locale_title": "区块链",
     "stripped_title": "Blockchain",
     "oracle_text": "Blockchain gains \"[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\" before all its other subroutines for every 2 faceup <strong>transaction</strong> operations in Archives.\n[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\n[subroutine] End the run.",
     "locale_text": "",
@@ -6559,7 +6559,7 @@
   {
     "codename": "bloo_moose",
     "oracle_title": "Bloo Moose",
-    "locale_title": "",
+    "locale_title": "鹿慕酒吧",
     "stripped_title": "Bloo Moose",
     "oracle_text": "When your turn begins, you may remove 1 card in the heap from the game. If you do, gain 2[credit].",
     "locale_text": "",
@@ -6626,7 +6626,7 @@
   {
     "codename": "bloodletter",
     "oracle_title": "Bloodletter",
-    "locale_title": "",
+    "locale_title": "放血者",
     "stripped_title": "Bloodletter",
     "oracle_text": "[subroutine] The Runner must trash either 1 installed program or the top 2 cards of the stack.",
     "locale_text": "",
@@ -6660,7 +6660,7 @@
   {
     "codename": "bloom",
     "oracle_title": "Bloom",
-    "locale_title": "",
+    "locale_title": "花开",
     "stripped_title": "Bloom",
     "oracle_text": "[subroutine] You may install 1 piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.",
     "locale_text": "",
@@ -6730,7 +6730,7 @@
   {
     "codename": "blue_level_clearance",
     "oracle_title": "Blue Level Clearance",
-    "locale_title": "",
+    "locale_title": "蓝色许可",
     "stripped_title": "Blue Level Clearance",
     "oracle_text": "As an additional cost to play this operation, spend [click].\nGain 5[credit] and draw 2 cards.",
     "locale_text": "",
@@ -6764,7 +6764,7 @@
   {
     "codename": "blue_sun_powering_the_future",
     "oracle_title": "Blue Sun: Powering the Future",
-    "locale_title": "",
+    "locale_title": "青日公司: 助力未来",
     "stripped_title": "Blue Sun: Powering the Future",
     "oracle_text": "When your turn begins, you may add 1 rezzed card to HQ and gain credits equal to its rez cost.",
     "locale_text": "",
@@ -7420,7 +7420,7 @@
   {
     "codename": "braintrust",
     "oracle_title": "Braintrust",
-    "locale_title": "",
+    "locale_title": "智脑团",
     "stripped_title": "Braintrust",
     "oracle_text": "When you score Braintrust, place 1 agenda counter on it for every 2 advancement tokens on it over 3.\nThe rez cost of all ice is lowered by 1 for each agenda counter on Braintrust.",
     "locale_text": "",
@@ -7587,7 +7587,7 @@
   {
     "codename": "breached_dome",
     "oracle_title": "Breached Dome",
-    "locale_title": "",
+    "locale_title": "破裂穹顶",
     "stripped_title": "Breached Dome",
     "oracle_text": "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, do 1 meat damage and trash the top card of the stack.",
     "locale_text": "",
@@ -7751,7 +7751,7 @@
   {
     "codename": "broad_daylight",
     "oracle_title": "Broad Daylight",
-    "locale_title": "",
+    "locale_title": "光天之下",
     "stripped_title": "Broad Daylight",
     "oracle_text": "When you score this agenda, you may take 1 bad publicity. Place 1 agenda counter on this agenda for each bad publicity you have.\nOnce per turn → [click], <strong>hosted agenda counter:</strong> Do 2 meat damage.",
     "locale_text": "",
@@ -7945,7 +7945,7 @@
   {
     "codename": "bug_out_bag",
     "oracle_title": "Bug Out Bag",
-    "locale_title": "",
+    "locale_title": "求生背包",
     "stripped_title": "Bug Out Bag",
     "oracle_text": "When you install this resource, place X power counters on it.\nWhen your turn ends, if you have no cards in your grip, draw 1 card for each hosted power counter, then trash this resource.",
     "locale_text": "",
@@ -7976,7 +7976,7 @@
   {
     "codename": "build_script",
     "oracle_title": "Build Script",
-    "locale_title": "",
+    "locale_title": "构建脚本",
     "stripped_title": "Build Script",
     "oracle_text": "Gain 1[credit] and draw 2 cards.",
     "locale_text": "",
@@ -8040,7 +8040,7 @@
   {
     "codename": "building_blocks",
     "oracle_title": "Building Blocks",
-    "locale_title": "",
+    "locale_title": "构建模块",
     "stripped_title": "Building Blocks",
     "oracle_text": "Reveal a <strong>barrier</strong> from HQ. Install and rez it, ignoring all costs.",
     "locale_text": "",
@@ -8344,7 +8344,7 @@
   {
     "codename": "by_any_means",
     "oracle_title": "By Any Means",
-    "locale_title": "",
+    "locale_title": "千方百计",
     "stripped_title": "By Any Means",
     "oracle_text": "Play only as your first [click].\nFor the remainder of the turn, whenever you access a card not in Archives, trash it and suffer 1 meat damage.",
     "locale_text": "",
@@ -8442,7 +8442,7 @@
   {
     "codename": "cache",
     "oracle_title": "Cache",
-    "locale_title": "",
+    "locale_title": "贮藏区",
     "stripped_title": "Cache",
     "oracle_text": "Place 3 virus counters on Cache when it is installed.\n<strong>Hosted virus counter:</strong> Gain 1[credit].",
     "locale_text": "",
@@ -8508,7 +8508,7 @@
   {
     "codename": "caduceus",
     "oracle_title": "Caduceus",
-    "locale_title": "",
+    "locale_title": "蛇杖",
     "stripped_title": "Caduceus",
     "oracle_text": "[subroutine] Trace[3]. If successful, the Corp gains 3[credit].\n[subroutine] Trace[2]. If successful, end the run.",
     "locale_text": "",
@@ -8542,7 +8542,7 @@
   {
     "codename": "caldera",
     "oracle_title": "Caldera",
-    "locale_title": "",
+    "locale_title": "火山臼",
     "stripped_title": "Caldera",
     "oracle_text": "[interrupt] → <strong>3[credit]:</strong> Prevent 1 core damage or 1 net damage.",
     "locale_text": "",
@@ -8575,7 +8575,7 @@
   {
     "codename": "calibration_testing",
     "oracle_title": "Calibration Testing",
-    "locale_title": "",
+    "locale_title": "校准测试",
     "stripped_title": "Calibration Testing",
     "oracle_text": "Remote server only.\n<strong>[trash]:</strong> Place 1 advancement counter on a card installed in the root of this server.",
     "locale_text": "",
@@ -9295,7 +9295,7 @@
   {
     "codename": "cerberus_lady_h1",
     "oracle_title": "Cerberus \"Lady\" H1",
-    "locale_title": "",
+    "locale_title": "三头犬“淑女”H1",
     "stripped_title": "Cerberus \"Lady\" H1",
     "oracle_text": "When you install this program, place 4 power counters on it.\nInterface → <strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
     "locale_text": "",
@@ -9527,7 +9527,7 @@
   {
     "codename": "cfc_excavation_contract",
     "oracle_title": "CFC Excavation Contract",
-    "locale_title": "",
+    "locale_title": "氯氟烃采掘合约",
     "stripped_title": "CFC Excavation Contract",
     "oracle_text": "When you score CFC Excavation Contract, gain 2[credit] for each rezzed <strong>bioroid</strong>.",
     "locale_text": "",
@@ -9691,7 +9691,7 @@
   {
     "codename": "chaos_theory_wunderkind",
     "oracle_title": "Chaos Theory: Wünderkind",
-    "locale_title": "",
+    "locale_title": "混沌希尔瑞: 神童",
     "stripped_title": "Chaos Theory: Wunderkind",
     "oracle_text": "+1[mu]",
     "locale_text": "",
@@ -10519,7 +10519,7 @@
   {
     "codename": "city_works_project",
     "oracle_title": "City Works Project",
-    "locale_title": "",
+    "locale_title": "城市工厂计划",
     "stripped_title": "City Works Project",
     "oracle_text": "Install City Works Project faceup.\nWhen the Runner accesses City Works Project while it is installed, do 2 meat damage and 1 additional meat damage for each advancement token on it.",
     "locale_text": "",
@@ -10915,7 +10915,7 @@
   {
     "codename": "closed_accounts",
     "oracle_title": "Closed Accounts",
-    "locale_title": "",
+    "locale_title": "查封账户",
     "stripped_title": "Closed Accounts",
     "oracle_text": "Play only if the Runner is tagged.\nThe Runner loses all credits in their credit pool.",
     "locale_text": "",
@@ -11116,7 +11116,7 @@
   {
     "codename": "code_replicator",
     "oracle_title": "Code Replicator",
-    "locale_title": "",
+    "locale_title": "代码复制器",
     "stripped_title": "Code Replicator",
     "oracle_text": "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out.",
     "locale_text": "",
@@ -11444,7 +11444,7 @@
   {
     "codename": "compile",
     "oracle_title": "Compile",
-    "locale_title": "",
+    "locale_title": "编译",
     "stripped_title": "Compile",
     "oracle_text": "Make a run. The first time you encounter a piece of ice during this run, you may search your stack or heap for a program and install it, ignoring all costs. When the run ends, add that program to the bottom of your stack if it is still installed.",
     "locale_text": "",
@@ -11710,7 +11710,7 @@
   {
     "codename": "consume",
     "oracle_title": "Consume",
-    "locale_title": "",
+    "locale_title": "消尽",
     "stripped_title": "Consume",
     "oracle_text": "Whenever you trash a Corp card, you may place 1 virus counter on Consume.\n[click]: Gain 2[credit] for each hosted virus counter, then remove all virus counters from Consume.",
     "locale_text": "",
@@ -11743,7 +11743,7 @@
   {
     "codename": "contaminate",
     "oracle_title": "Contaminate",
-    "locale_title": "",
+    "locale_title": "污染",
     "stripped_title": "Contaminate",
     "oracle_text": "Place 3 virus counters on an installed Runner card with no hosted virus counters.",
     "locale_text": "",
@@ -11774,7 +11774,7 @@
   {
     "codename": "contract_killer",
     "oracle_title": "Contract Killer",
-    "locale_title": "",
+    "locale_title": "职业杀手",
     "stripped_title": "Contract Killer",
     "oracle_text": "Contract Killer can be advanced.\nIf there are at least 2 advancement tokens on Contract Killer, it gains: \"[click], [trash]: Trash a <strong>connection</strong> or do 2 meat damage.\"",
     "locale_text": "",
@@ -11807,7 +11807,7 @@
   {
     "codename": "conundrum",
     "oracle_title": "Conundrum",
-    "locale_title": "",
+    "locale_title": "难题",
     "stripped_title": "Conundrum",
     "oracle_text": "Conundrum has +3 strength if there is an installed <strong>AI</strong>.\n[subroutine] The Runner trashes an installed program.\n[subroutine] The Runner loses [click], if able.\n[subroutine] End the run.",
     "locale_text": "",
@@ -11937,7 +11937,7 @@
   {
     "codename": "corporate_defector",
     "oracle_title": "Corporate Defector",
-    "locale_title": "",
+    "locale_title": "公司逃兵",
     "stripped_title": "Corporate Defector",
     "oracle_text": "Whenever the Corp draws a card with the basic action, reveal that card.",
     "locale_text": "",
@@ -11970,7 +11970,7 @@
   {
     "codename": "corporate_grant",
     "oracle_title": "Corporate \"Grant\"",
-    "locale_title": "",
+    "locale_title": "公司“拨款”",
     "stripped_title": "Corporate \"Grant\"",
     "oracle_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first time you install a card each turn, the Corp loses 1[credit].",
     "locale_text": "",
@@ -12464,7 +12464,7 @@
   {
     "codename": "cpc_generator",
     "oracle_title": "CPC Generator",
-    "locale_title": "",
+    "locale_title": "CPC生成器",
     "stripped_title": "CPC Generator",
     "oracle_text": "The first time the Runner spends [click] to gain 1[credit] each turn (not through a card effect), gain 1[credit].",
     "locale_text": "",
@@ -12497,7 +12497,7 @@
   {
     "codename": "cradle",
     "oracle_title": "Cradle",
-    "locale_title": "",
+    "locale_title": "摆球",
     "stripped_title": "Cradle",
     "oracle_text": "This program gets -1 strength for each card in your grip.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.",
     "locale_text": "",
@@ -12531,7 +12531,7 @@
   {
     "codename": "crash_space",
     "oracle_title": "Crash Space",
-    "locale_title": "",
+    "locale_title": "应急房间",
     "stripped_title": "Crash Space",
     "oracle_text": "2[recurring-credit]\nYou can spend hosted credits to take the basic action to remove 1 tag.\n[interrupt] → [trash]<strong>:</strong> Prevent up to 3 meat damage.",
     "locale_text": "",
@@ -12628,7 +12628,7 @@
   {
     "codename": "credit_kiting",
     "oracle_title": "Credit Kiting",
-    "locale_title": "",
+    "locale_title": "信用诈欺",
     "stripped_title": "Credit Kiting",
     "oracle_text": "Play only if you made a successful run on a central server this turn.\nInstall a card from your grip, lowering its install cost by 8[credit], and take 1 tag.",
     "locale_text": "",
@@ -12893,7 +12893,7 @@
   {
     "codename": "crypsis",
     "oracle_title": "Crypsis",
-    "locale_title": "",
+    "locale_title": "万色草",
     "stripped_title": "Crypsis",
     "oracle_text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\n<strong>[click]:</strong> Place 1 virus counter on this program.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program.",
     "locale_text": "",
@@ -12928,7 +12928,7 @@
   {
     "codename": "crypt",
     "oracle_title": "Crypt",
-    "locale_title": "",
+    "locale_title": "地窖",
     "stripped_title": "Crypt",
     "oracle_text": "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt.\n[click], [trash], <strong>3 hosted virus counters</strong>: Search your stack for a <strong>virus</strong> program and install it (paying its install cost), then shuffle your stack.",
     "locale_text": "",
@@ -13125,7 +13125,7 @@
   {
     "codename": "customized_secretary",
     "oracle_title": "Customized Secretary",
-    "locale_title": "",
+    "locale_title": "定制的助理",
     "stripped_title": "Customized Secretary",
     "oracle_text": "When you install Customized Secretary reveal the top 5 cards of the stack. You may host any number of revealed programs from your stack on it. Shuffle your stack.\n[click]: Install a hosted program, paying all install costs.",
     "locale_text": "",
@@ -13156,7 +13156,7 @@
   {
     "codename": "cyber_bureau_keeping_the_peace",
     "oracle_title": "Cyber Bureau: Keeping the Peace",
-    "locale_title": "",
+    "locale_title": "赛博处: 维持和平",
     "stripped_title": "Cyber Bureau: Keeping the Peace",
     "oracle_text": "You draw a starting hand of 10 cards.\nBefore taking your first turn, install up to 5 cards, ignoring all install costs. Rez any number of them, lowering the total rez cost among all cards by 20. Flip this identity.\nDetective's Bureau: Upholding the Law\nThe first time the Runner initiates a run each turn, force the Runner to lose 1[credit] for each agenda point in his or her score area, then you gain 1[credit] for each credit lost.\n[click]: Gain 3[credit] or draw 3 cards.",
     "locale_text": "",
@@ -13256,7 +13256,7 @@
   {
     "codename": "cyberdelia",
     "oracle_title": "Cyberdelia",
-    "locale_title": "",
+    "locale_title": "赛博幻丽",
     "stripped_title": "Cyberdelia",
     "oracle_text": "+1[mu]\nThe first time each turn you fully break a piece of ice, gain 1[credit].",
     "locale_text": "",
@@ -13386,7 +13386,7 @@
   {
     "codename": "cyberfeeder",
     "oracle_title": "Cyberfeeder",
-    "locale_title": "",
+    "locale_title": "赛博补给器",
     "stripped_title": "Cyberfeeder",
     "oracle_text": "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong> or for installing <strong>virus</strong> programs.",
     "locale_text": "",
@@ -13646,7 +13646,7 @@
   {
     "codename": "dadiana_chacon",
     "oracle_title": "Dadiana Chacon",
-    "locale_title": "",
+    "locale_title": "达迪亚娜·查康",
     "stripped_title": "Dadiana Chacon",
     "oracle_text": "When your turn begins, gain 1[credit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage.",
     "locale_text": "",
@@ -13909,7 +13909,7 @@
   {
     "codename": "daredevil",
     "oracle_title": "Daredevil",
-    "locale_title": "",
+    "locale_title": "冒失鬼",
     "stripped_title": "Daredevil",
     "oracle_text": "+2[mu]\nThe first time you initiate a run on a server protected by 2 or more pieces of ice each turn, draw 2 cards.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -13942,7 +13942,7 @@
   {
     "codename": "daruma",
     "oracle_title": "Daruma",
-    "locale_title": "",
+    "locale_title": "达摩",
     "stripped_title": "Daruma",
     "oracle_text": "When the Runner approaches this server, you may trash this upgrade. If you do, choose 1 card in the root of another server or 1 agenda, asset, or upgrade in HQ. Swap that card with 1 card in the root of this server. If you swap cards this way, the Runner may jack out.",
     "locale_text": "",
@@ -13973,7 +13973,7 @@
   {
     "codename": "darwin",
     "oracle_title": "Darwin",
-    "locale_title": "",
+    "locale_title": "达尔文",
     "stripped_title": "Darwin",
     "oracle_text": "Interface → 2[credit]: Break 1 subroutine.\nX is equal to the number of hosted virus counters.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on this program.",
     "locale_text": "",
@@ -14041,7 +14041,7 @@
   {
     "codename": "data_dealer",
     "oracle_title": "Data Dealer",
-    "locale_title": "",
+    "locale_title": "数据商贩",
     "stripped_title": "Data Dealer",
     "oracle_text": "<strong>[click]</strong>, <strong>forfeit 1 agenda:</strong> Gain 9[credit].",
     "locale_text": "",
@@ -14177,7 +14177,7 @@
   {
     "codename": "data_loop",
     "oracle_title": "Data Loop",
-    "locale_title": "",
+    "locale_title": "数据循环",
     "stripped_title": "Data Loop",
     "oracle_text": "When the Runner encounters this ice, they add 2 cards from the grip to the top of the stack.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run.",
     "locale_text": "",
@@ -14244,7 +14244,7 @@
   {
     "codename": "data_raven",
     "oracle_title": "Data Raven",
-    "locale_title": "",
+    "locale_title": "数据乌鸦",
     "stripped_title": "Data Raven",
     "oracle_text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] Trace[3]. If successful, place 1 power counter on this ice.",
     "locale_text": "",
@@ -14345,7 +14345,7 @@
   {
     "codename": "datasucker",
     "oracle_title": "Datasucker",
-    "locale_title": "",
+    "locale_title": "数据吸食虫",
     "stripped_title": "Datasucker",
     "oracle_text": "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker.\n<strong>Hosted virus counter:</strong> Rezzed piece of ice currently being encountered has -1 strength until the end of the encounter.",
     "locale_text": "",
@@ -14473,7 +14473,7 @@
   {
     "codename": "dean_lister",
     "oracle_title": "Dean Lister",
-    "locale_title": "",
+    "locale_title": "迪安·里斯特",
     "stripped_title": "Dean Lister",
     "oracle_text": "[trash]: Choose an <strong>icebreaker</strong>. Until the end of the run, that <strong>icebreaker</strong> has +1 strength for each card in your grip.",
     "locale_text": "",
@@ -14506,7 +14506,7 @@
   {
     "codename": "death_and_taxes",
     "oracle_title": "Death and Taxes",
-    "locale_title": "",
+    "locale_title": "死亡与纳税",
     "stripped_title": "Death and Taxes",
     "oracle_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhenever the Runner installs a card or trashes an installed card, you may gain 1[credit].",
     "locale_text": "",
@@ -14640,7 +14640,7 @@
   {
     "codename": "dedicated_processor",
     "oracle_title": "Dedicated Processor",
-    "locale_title": "",
+    "locale_title": "专属处理器",
     "stripped_title": "Dedicated Processor",
     "oracle_text": "Install Dedicated Processor on a non-<strong>AI icebreaker</strong>.\nHost <strong>icebreaker</strong> gains \"2[credit]: +4 strength.\"",
     "locale_text": "",
@@ -14673,7 +14673,7 @@
   {
     "codename": "dedicated_response_team",
     "oracle_title": "Dedicated Response Team",
-    "locale_title": "",
+    "locale_title": "专属反应组",
     "stripped_title": "Dedicated Response Team",
     "oracle_text": "If the Runner is tagged, Dedicated Response Team gains \"Whenever a successful run ends, do 2 meat damage.\"",
     "locale_text": "",
@@ -14995,7 +14995,7 @@
   {
     "codename": "degree_mill",
     "oracle_title": "Degree Mill",
-    "locale_title": "",
+    "locale_title": "学位工厂",
     "stripped_title": "Degree Mill",
     "oracle_text": "As an additional cost to steal Degree Mill, the Runner must shuffle 2 installed Runner cards into the stack.",
     "locale_text": "",
@@ -15059,7 +15059,7 @@
   {
     "codename": "demara",
     "oracle_title": "Demara",
-    "locale_title": "",
+    "locale_title": "迪马拉",
     "stripped_title": "Demara",
     "oracle_text": "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\n<strong>[trash]:</strong> Bypass the <strong>barrier</strong> you are encountering.",
     "locale_text": "",
@@ -15126,7 +15126,7 @@
   {
     "codename": "demolition_run",
     "oracle_title": "Demolition Run",
-    "locale_title": "",
+    "locale_title": "拆解式潜袭",
     "stripped_title": "Demolition Run",
     "oracle_text": "Run HQ or R&D.\nAccess → <strong>0[credit]:</strong> Trash the card you are accessing.",
     "locale_text": "",
@@ -15291,7 +15291,7 @@
   {
     "codename": "deus_x",
     "oracle_title": "Deus X",
-    "locale_title": "",
+    "locale_title": "神谕",
     "stripped_title": "Deus X",
     "oracle_text": "Interface → <strong>[trash]:</strong> Break any number of <strong>AP</strong> subroutines.\n[interrupt] → <strong>[trash]:</strong> Prevent any amount of net damage.",
     "locale_text": "",
@@ -15421,7 +15421,7 @@
   {
     "codename": "dhegdheer",
     "oracle_title": "Dhegdheer",
-    "locale_title": "",
+    "locale_title": "长耳怪",
     "stripped_title": "Dhegdheer",
     "oracle_text": "You can install other programs onto this program. Each program installed this way costs 1[credit] less to install. Limit 1 hosted program.\nThe memory cost of the hosted program does not count against your memory limit.",
     "locale_text": "",
@@ -15454,7 +15454,7 @@
   {
     "codename": "dianas_hunt",
     "oracle_title": "Diana's Hunt",
-    "locale_title": "",
+    "locale_title": "狄安娜之猎",
     "stripped_title": "Diana's Hunt",
     "oracle_text": "Make a run. Whenever you encounter a piece of ice during this run, you may install a program from your grip, ignoring all costs. When this run ends, trash all programs installed using Diana's Hunt.",
     "locale_text": "",
@@ -15549,7 +15549,7 @@
   {
     "codename": "dinosaurus",
     "oracle_title": "Dinosaurus",
-    "locale_title": "",
+    "locale_title": "小神龙",
     "stripped_title": "Dinosaurus",
     "oracle_text": "Dinosaurus can host a single non-<strong>AI icebreaker</strong>. The memory cost of the hosted <strong>icebreaker</strong> does not count against your memory limit.\nHosted <strong>icebreaker</strong> has +2 strength.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -15778,7 +15778,7 @@
   {
     "codename": "distract_the_masses",
     "oracle_title": "Distract the Masses",
-    "locale_title": "",
+    "locale_title": "迷惑群众",
     "stripped_title": "Distract the Masses",
     "oracle_text": "The Runner gains 2[credit]. Trash up to 2 cards from HQ, then shuffle up to 2 cards from Archives into R&D. Remove Distract the Masses from the game instead of trashing it.",
     "locale_text": "",
@@ -15843,7 +15843,7 @@
   {
     "codename": "district_99",
     "oracle_title": "District 99",
-    "locale_title": "",
+    "locale_title": "99区",
     "stripped_title": "District 99",
     "oracle_text": "The first time each turn a program or a piece of hardware is trashed (from any location), you may place 1 power counter on District 99.\n[click], <strong>3 hosted power counters</strong>: Add a card that matches the faction of your identity from your heap to your grip.",
     "locale_text": "",
@@ -15910,7 +15910,7 @@
   {
     "codename": "diversion_of_funds",
     "oracle_title": "Diversion of Funds",
-    "locale_title": "",
+    "locale_title": "挪用资金",
     "stripped_title": "Diversion of Funds",
     "oracle_text": "As an additional cost to play this event, spend [click].\nRun HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5[credit], then you gain 1[credit] for each credit lost.",
     "locale_text": "",
@@ -15945,7 +15945,7 @@
   {
     "codename": "divert_power",
     "oracle_title": "Divert Power",
-    "locale_title": "",
+    "locale_title": "能量转向",
     "stripped_title": "Divert Power",
     "oracle_text": "Derez any number of cards. You may rez a card, lowering its rez cost by 3 for each card that you derezzed this way.",
     "locale_text": "",
@@ -16007,7 +16007,7 @@
   {
     "codename": "divide_and_conquer",
     "oracle_title": "Divide and Conquer",
-    "locale_title": "",
+    "locale_title": "分而治之",
     "stripped_title": "Divide and Conquer",
     "oracle_text": "Run Archives. If successful, after breaching Archives, breach HQ, then breach R&D. You cannot access cards in the root of HQ or R&D during these breaches.",
     "locale_text": "",
@@ -16107,7 +16107,7 @@
   {
     "codename": "dj_fenris",
     "oracle_title": "DJ Fenris",
-    "locale_title": "",
+    "locale_title": "DJ芬里斯",
     "stripped_title": "DJ Fenris",
     "oracle_text": "Host a <strong>g-mod</strong> identity that does not match the faction of your identity on DJ Fenris when he is installed. Remove hosted identity from the game if DJ Fenris is uninstalled.\nDJ Fenris gains the text of hosted identity.\nLimit 1 per deck.",
     "locale_text": "",
@@ -16435,7 +16435,7 @@
   {
     "codename": "doppelganger",
     "oracle_title": "Doppelgänger",
-    "locale_title": "",
+    "locale_title": "双重幻影",
     "stripped_title": "Doppelganger",
     "oracle_text": "+1[mu]\nOnce per turn → When a successful run ends, you may run any server.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -16795,7 +16795,7 @@
   {
     "codename": "drudge_work",
     "oracle_title": "Drudge Work",
-    "locale_title": "",
+    "locale_title": "苦工",
     "stripped_title": "Drudge Work",
     "oracle_text": "Place 3 power counters on Drudge Work when it is rezzed. When there are no power counters left on Drudge Work, trash it.\n[click], <strong>hosted power counter</strong>: Reveal an agenda in HQ or Archives. Gain credits equal to its agenda points, then shuffle it into R&D.",
     "locale_text": "",
@@ -16893,7 +16893,7 @@
   {
     "codename": "dummy_box",
     "oracle_title": "Dummy Box",
-    "locale_title": "",
+    "locale_title": "马甲箱",
     "stripped_title": "Dummy Box",
     "oracle_text": "[interrupt] → <strong>Trash 1 card from your grip:</strong> Prevent the Corp from trashing 1 installed card of the same type.",
     "locale_text": "",
@@ -16960,7 +16960,7 @@
   {
     "codename": "dyson_mem_chip",
     "oracle_title": "Dyson Mem Chip",
-    "locale_title": "",
+    "locale_title": "戴森内存芯片",
     "stripped_title": "Dyson Mem Chip",
     "oracle_text": "+1[mu], +1[link]",
     "locale_text": "",
@@ -17025,7 +17025,7 @@
   {
     "codename": "e3_feedback_implants",
     "oracle_title": "e3 Feedback Implants",
-    "locale_title": "",
+    "locale_title": "e3反馈式植入体",
     "stripped_title": "e3 Feedback Implants",
     "oracle_text": "Whenever you break a subroutine on a piece of ice, you may pay 1[credit] to break 1 subroutine on that ice.",
     "locale_text": "",
@@ -17190,7 +17190,7 @@
   {
     "codename": "easy_mark",
     "oracle_title": "Easy Mark",
-    "locale_title": "",
+    "locale_title": "待宰羔羊",
     "stripped_title": "Easy Mark",
     "oracle_text": "Gain 3[credit].",
     "locale_text": "",
@@ -17257,7 +17257,7 @@
   {
     "codename": "eavesdrop",
     "oracle_title": "Eavesdrop",
-    "locale_title": "",
+    "locale_title": "窃听",
     "stripped_title": "Eavesdrop",
     "oracle_text": "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, Trace[3]. If successful, give the Runner 1 tag.\"",
     "locale_text": "",
@@ -17359,7 +17359,7 @@
   {
     "codename": "echo_chamber",
     "oracle_title": "Echo Chamber",
-    "locale_title": "",
+    "locale_title": "回音室",
     "stripped_title": "Echo Chamber",
     "oracle_text": "[click], [click], [click]: Add Echo Chamber to your score area as an agenda worth 1 agenda point.",
     "locale_text": "",
@@ -17390,7 +17390,7 @@
   {
     "codename": "economic_warfare",
     "oracle_title": "Economic Warfare",
-    "locale_title": "",
+    "locale_title": "经济战",
     "stripped_title": "Economic Warfare",
     "oracle_text": "Play only if the Runner made a successful run during their last turn.\nIf the Runner has at least 4[credit], they lose 4[credit].",
     "locale_text": "",
@@ -17720,7 +17720,7 @@
   {
     "codename": "elective_upgrade",
     "oracle_title": "Elective Upgrade",
-    "locale_title": "",
+    "locale_title": "可选升级",
     "stripped_title": "Elective Upgrade",
     "oracle_text": "When you score this agenda, place 2 agenda counters on it.\nOnce per turn → [click], <strong>hosted agenda counter:</strong> Gain [click][click].",
     "locale_text": "",
@@ -17787,7 +17787,7 @@
   {
     "codename": "eli_2_0",
     "oracle_title": "Eli 2.0",
-    "locale_title": "",
+    "locale_title": "伊莱2.0",
     "stripped_title": "Eli 2.0",
     "oracle_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] You may draw 1 card.\n[subroutine] End the run.\n[subroutine] End the run.",
     "locale_text": "",
@@ -17854,7 +17854,7 @@
   {
     "codename": "elizabeth_mills",
     "oracle_title": "Elizabeth Mills",
-    "locale_title": "",
+    "locale_title": "伊丽莎白·米尔斯",
     "stripped_title": "Elizabeth Mills",
     "oracle_text": "When you rez Elizabeth Mills, remove 1 bad publicity.\n[click], [trash]: Trash 1 <strong>location</strong>. Take 1 bad publicity.",
     "locale_text": "",
@@ -17953,7 +17953,7 @@
   {
     "codename": "embezzle",
     "oracle_title": "Embezzle",
-    "locale_title": "",
+    "locale_title": "侵吞",
     "stripped_title": "Embezzle",
     "oracle_text": "Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4[credit] for each card trashed this way.",
     "locale_text": "",
@@ -18051,7 +18051,7 @@
   {
     "codename": "emergent_creativity",
     "oracle_title": "Emergent Creativity",
-    "locale_title": "",
+    "locale_title": "突现式创造",
     "stripped_title": "Emergent Creativity",
     "oracle_text": "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X[credit] less. X is equal to the total install cost of the trashed cards.",
     "locale_text": "",
@@ -18411,7 +18411,7 @@
   {
     "codename": "endless_eula",
     "oracle_title": "Endless EULA",
-    "locale_title": "",
+    "locale_title": "无尽EULA",
     "stripped_title": "Endless EULA",
     "oracle_text": "[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].",
     "locale_text": "",
@@ -18614,7 +18614,7 @@
   {
     "codename": "engolo",
     "oracle_title": "Engolo",
-    "locale_title": "",
+    "locale_title": "恩戈洛",
     "stripped_title": "Engolo",
     "oracle_text": "Once per turn → When you encounter a piece of ice, you may pay 2[credit]. If you do, it gains <strong>code gate</strong> for the remainder of that encounter.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +4 strength.",
     "locale_text": "",
@@ -18781,7 +18781,7 @@
   {
     "codename": "envelope",
     "oracle_title": "Envelope",
-    "locale_title": "",
+    "locale_title": "封套",
     "stripped_title": "Envelope",
     "oracle_text": "[subroutine] Do 1 net damage.\n[subroutine] End the run.",
     "locale_text": "",
@@ -19043,7 +19043,7 @@
   {
     "codename": "escalate_vitriol",
     "oracle_title": "Escalate Vitriol",
-    "locale_title": "",
+    "locale_title": "炮轰加剧",
     "stripped_title": "Escalate Vitriol",
     "oracle_text": "Once per turn → [click]<strong>:</strong> Gain 1[credit] for each tag the Runner has.",
     "locale_text": "",
@@ -19374,7 +19374,7 @@
   {
     "codename": "excalibur",
     "oracle_title": "Excalibur",
-    "locale_title": "",
+    "locale_title": "王者之剑",
     "stripped_title": "Excalibur",
     "oracle_text": "[subroutine] The Runner cannot make another run this turn.",
     "locale_text": "",
@@ -19472,7 +19472,7 @@
   {
     "codename": "executive_boot_camp",
     "oracle_title": "Executive Boot Camp",
-    "locale_title": "",
+    "locale_title": "主管训练营",
     "stripped_title": "Executive Boot Camp",
     "oracle_text": "When your turn begins, you may rez a card, lowering the rez cost by 1[credit].\n1[credit],[trash]: Search R&D for an asset, reveal it, and add it to HQ. Shuffle R&D.",
     "locale_text": "",
@@ -19503,7 +19503,7 @@
   {
     "codename": "executive_functioning",
     "oracle_title": "Executive Functioning",
-    "locale_title": "",
+    "locale_title": "执行功能",
     "stripped_title": "Executive Functioning",
     "oracle_text": "[subroutine] Trace[4]. If successful, do 1 core damage.",
     "locale_text": "",
@@ -19636,7 +19636,7 @@
   {
     "codename": "exer",
     "oracle_title": "eXer",
-    "locale_title": "",
+    "locale_title": "划叉者",
     "stripped_title": "eXer",
     "oracle_text": "Whenever you breach R&D, access 1 additional card.\nWhen the Corp purges virus counters, trash this program.",
     "locale_text": "",
@@ -19764,7 +19764,7 @@
   {
     "codename": "explode_a_palooza",
     "oracle_title": "Explode-a-palooza",
-    "locale_title": "",
+    "locale_title": "爆炸狂欢",
     "stripped_title": "Explode-a-palooza",
     "oracle_text": "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda, you may gain 5[credit].",
     "locale_text": "",
@@ -20055,7 +20055,7 @@
   {
     "codename": "faerie",
     "oracle_title": "Faerie",
-    "locale_title": "",
+    "locale_title": "仙灵",
     "stripped_title": "Faerie",
     "oracle_text": "Interface → 0[credit]: Break 1 <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.",
     "locale_text": "",
@@ -20228,7 +20228,7 @@
   {
     "codename": "fall_guy",
     "oracle_title": "Fall Guy",
-    "locale_title": "",
+    "locale_title": "替罪羊",
     "stripped_title": "Fall Guy",
     "oracle_text": "[interrupt] → [trash]<strong>:</strong> Prevent a player from trashing another installed resource.\n[trash]<strong>:</strong> Gain 2[credit].",
     "locale_text": "",
@@ -20292,7 +20292,7 @@
   {
     "codename": "false_flag",
     "oracle_title": "False Flag",
-    "locale_title": "",
+    "locale_title": "伪旗行动",
     "stripped_title": "False Flag",
     "oracle_text": "False Flag can be advanced.\nWhen the Runner accesses False Flag, give the Runner 1 tag for every 2 advancement tokens on False Flag.\n[click], <strong>7 hosted advancement tokens</strong>: add False Flag to your score area as an agenda worth 3 agenda points.",
     "locale_text": "",
@@ -20358,7 +20358,7 @@
   {
     "codename": "falsified_credentials",
     "oracle_title": "Falsified Credentials",
-    "locale_title": "",
+    "locale_title": "窜改凭证",
     "stripped_title": "Falsified Credentials",
     "oracle_text": "Name a card type. Expose a card in a remote server, then gain 5[credit] if the exposed card has the named card type.",
     "locale_text": "",
@@ -20422,7 +20422,7 @@
   {
     "codename": "fast_break",
     "oracle_title": "Fast Break",
-    "locale_title": "",
+    "locale_title": "快速突破",
     "stripped_title": "Fast Break",
     "oracle_text": "Gain X[credit]. Draw up to X cards. Install up to X cards in the root of and/or protecting a single remote server. X is equal to the number of agendas in the Runner's score area.",
     "locale_text": "",
@@ -20855,7 +20855,7 @@
   {
     "codename": "fetal_ai",
     "oracle_title": "Fetal AI",
-    "locale_title": "",
+    "locale_title": "胎型人工智能",
     "stripped_title": "Fetal AI",
     "oracle_text": "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda anywhere except in Archives, do 2 net damage.\nAs an additional cost to steal this agenda, the Runner must pay 2[credit].",
     "locale_text": "",
@@ -21151,7 +21151,7 @@
   {
     "codename": "flame_out",
     "oracle_title": "Flame-out",
-    "locale_title": "",
+    "locale_title": "尽火",
     "stripped_title": "Flame-out",
     "oracle_text": "Flame-out can host a single program.\nWhen you install Flame-out, place 9[credit] on it. Use these credits to pay for using hosted program.\nWhen a turn ends in which you used credits on Flame-out, trash hosted program.",
     "locale_text": "",
@@ -21184,7 +21184,7 @@
   {
     "codename": "flare",
     "oracle_title": "Flare",
-    "locale_title": "",
+    "locale_title": "耀斑",
     "stripped_title": "Flare",
     "oracle_text": "[subroutine]Trace[6]. If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
     "locale_text": "",
@@ -21219,7 +21219,7 @@
   {
     "codename": "flashbang",
     "oracle_title": "Flashbang",
-    "locale_title": "",
+    "locale_title": "闪光弹",
     "stripped_title": "Flashbang",
     "oracle_text": "Interface → <strong>6[credit]:</strong> Derez the <strong>sentry</strong> you are encountering.\n<strong>1[credit]:</strong> +1 strength.",
     "locale_text": "",
@@ -21348,7 +21348,7 @@
   {
     "codename": "fly_on_the_wall",
     "oracle_title": "Fly on the Wall",
-    "locale_title": "",
+    "locale_title": "墙上的苍蝇",
     "stripped_title": "Fly on the Wall",
     "oracle_text": "When you score Fly on the Wall, give the Runner 1 tag.",
     "locale_text": "",
@@ -21445,7 +21445,7 @@
   {
     "codename": "force_of_nature",
     "oracle_title": "Force of Nature",
-    "locale_title": "",
+    "locale_title": "自然之力",
     "stripped_title": "Force of Nature",
     "oracle_text": "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
     "locale_text": "",
@@ -21479,7 +21479,7 @@
   {
     "codename": "forced_connection",
     "oracle_title": "Forced Connection",
-    "locale_title": "",
+    "locale_title": "强制连接",
     "stripped_title": "Forced Connection",
     "oracle_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, Trace[3]. If successful, give the Runner 2 tags.",
     "locale_text": "",
@@ -21612,7 +21612,7 @@
   {
     "codename": "formicary",
     "oracle_title": "Formicary",
-    "locale_title": "",
+    "locale_title": "蚁冢",
     "stripped_title": "Formicary",
     "oracle_text": "Whenever the Runner approaches a server, you may rez this ice. If you do, move this ice to the innermost position protecting the approached server. The Runner moves to this ice and encounters it.\n[subroutine] End the run unless the Runner suffers 2 net damage.",
     "locale_text": "",
@@ -21677,7 +21677,7 @@
   {
     "codename": "fractal_threat_matrix",
     "oracle_title": "Fractal Threat Matrix",
-    "locale_title": "",
+    "locale_title": "分形威胁矩阵",
     "stripped_title": "Fractal Threat Matrix",
     "oracle_text": "Each time all the subroutines are broken on a piece of ice protecting this server, trash the top 2 cards of the stack.",
     "locale_text": "",
@@ -21840,7 +21840,7 @@
   {
     "codename": "free_lunch",
     "oracle_title": "Free Lunch",
-    "locale_title": "",
+    "locale_title": "白吃的午餐",
     "stripped_title": "Free Lunch",
     "oracle_text": "<strong>Hosted power counter:</strong> The Runner loses 1[credit].\n[subroutine] Place 1 power counter on Free Lunch.\n[subroutine] Place 1 power counter on Free Lunch.",
     "locale_text": "",
@@ -21873,7 +21873,7 @@
   {
     "codename": "freedom_khumalo_crypto_anarchist",
     "oracle_title": "Freedom Khumalo: Crypto-Anarchist",
-    "locale_title": "",
+    "locale_title": "自由库马洛: 加密无政府主义者",
     "stripped_title": "Freedom Khumalo: Crypto-Anarchist",
     "oracle_text": "Access, once per turn → <strong>Any X virus counters:</strong> Trash the non-agenda card you are accessing. X must be equal to that card's rez or play cost.",
     "locale_text": "",
@@ -22038,7 +22038,7 @@
   {
     "codename": "friday_chip",
     "oracle_title": "Friday Chip",
-    "locale_title": "",
+    "locale_title": "周五芯片",
     "stripped_title": "Friday Chip",
     "oracle_text": "Whenever you trash a Corp card, you may place 1 virus counter on Friday Chip.\nWhen your turn begins, you may move 1 hosted virus counter to a <strong>virus</strong> program.",
     "locale_text": "",
@@ -22368,7 +22368,7 @@
   {
     "codename": "gabriel_santiago_consummate_professional",
     "oracle_title": "Gabriel Santiago: Consummate Professional",
-    "locale_title": "",
+    "locale_title": "加布里埃尔·圣地亚哥: 精湛专家",
     "stripped_title": "Gabriel Santiago: Consummate Professional",
     "oracle_text": "The first time you make a successful run on HQ each turn, gain 2[credit].",
     "locale_text": "",
@@ -22501,7 +22501,7 @@
   {
     "codename": "game_changer",
     "oracle_title": "Game Changer",
-    "locale_title": "",
+    "locale_title": "改变赛局",
     "stripped_title": "Game Changer",
     "oracle_text": "Gain [click] for each agenda in the Runner's score area. Remove Game Changer from the game instead of trashing it.",
     "locale_text": "",
@@ -22796,7 +22796,7 @@
   {
     "codename": "gatekeeper",
     "oracle_title": "Gatekeeper",
-    "locale_title": "",
+    "locale_title": "门岗",
     "stripped_title": "Gatekeeper",
     "oracle_text": "Gatekeeper has +6 strength if you rezzed it this turn.\n[subroutine] Draw up to 3 cards. Reveal up to 3 agendas in HQ and/or Archives, then shuffle those agendas into R&D.\n[subroutine] End the run.",
     "locale_text": "",
@@ -22863,7 +22863,7 @@
   {
     "codename": "gbahali",
     "oracle_title": "Gbahali",
-    "locale_title": "",
+    "locale_title": "巴哈利",
     "stripped_title": "Gbahali",
     "oracle_text": "[trash]: Break the last subroutine on the encountered piece of ice.",
     "locale_text": "",
@@ -22896,7 +22896,7 @@
   {
     "codename": "gebrselassie",
     "oracle_title": "Gebrselassie",
-    "locale_title": "",
+    "locale_title": "格布雷西拉西耶",
     "stripped_title": "Gebrselassie",
     "oracle_text": "[click]: Host this hardware on an installed non-AI <strong>icebreaker</strong>.\nAbilities that increase host icebreaker's strength last for the remainder of the turn <em>(instead of any shorter duration)</em>.",
     "locale_text": "",
@@ -22997,7 +22997,7 @@
   {
     "codename": "gene_splicer",
     "oracle_title": "Gene Splicer",
-    "locale_title": "",
+    "locale_title": "基因剪接者",
     "stripped_title": "Gene Splicer",
     "oracle_text": "Gene Splicer can be advanced.\nWhen the Runner accesses Gene Splicer, do 1 net damage for each advancement token on Gene Splicer.\n<strong>[click], 3 hosted advancement tokens:</strong> Add Gene Splicer to your score area as an agenda worth 1 agenda point.",
     "locale_text": "",
@@ -23097,7 +23097,7 @@
   {
     "codename": "genotyping",
     "oracle_title": "Genotyping",
-    "locale_title": "",
+    "locale_title": "基因分型",
     "stripped_title": "Genotyping",
     "oracle_text": "Trash the top 2 cards of R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it.",
     "locale_text": "",
@@ -23194,7 +23194,7 @@
   {
     "codename": "ghost_branch",
     "oracle_title": "Ghost Branch",
-    "locale_title": "",
+    "locale_title": "幽灵分部",
     "stripped_title": "Ghost Branch",
     "oracle_text": "Ghost Branch can be advanced.\nWhen the Runner accesses Ghost Branch, you may give the Runner 1 tag for each advancement token on Ghost Branch.",
     "locale_text": "",
@@ -23361,7 +23361,7 @@
   {
     "codename": "giordano_memorial_field",
     "oracle_title": "Giordano Memorial Field",
-    "locale_title": "",
+    "locale_title": "乔尔达纪念赛场",
     "stripped_title": "Giordano Memorial Field",
     "oracle_text": "Whenever the Runner makes a successful run on this server, end the run unless they pay 2[credit] for each agenda in their score area.",
     "locale_text": "",
@@ -23493,7 +23493,7 @@
   {
     "codename": "glut_cipher",
     "oracle_title": "Glut Cipher",
-    "locale_title": "",
+    "locale_title": "爆库暗码",
     "stripped_title": "Glut Cipher",
     "oracle_text": "Run Archives. If successful, instead of breaching Archives, the Corp adds exactly 5 cards from Archives to HQ, if able. If they do, they trash 5 cards from HQ at random.",
     "locale_text": "",
@@ -23527,7 +23527,7 @@
   {
     "codename": "god_of_war",
     "oracle_title": "God of War",
-    "locale_title": "",
+    "locale_title": "战神",
     "stripped_title": "God of War",
     "oracle_text": "When your turn begins, you may take 1 tag to place 2 virus counters on this program.\nInterface → <strong>Hosted virus counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +1 strength.",
     "locale_text": "",
@@ -23888,7 +23888,7 @@
   {
     "codename": "graft",
     "oracle_title": "Graft",
-    "locale_title": "",
+    "locale_title": "受贿",
     "stripped_title": "Graft",
     "oracle_text": "When you score Graft, you may search your deck for up to 3 cards, reveal them, and add them to HQ. Shuffle R&D.",
     "locale_text": "",
@@ -24016,7 +24016,7 @@
   {
     "codename": "green_level_clearance",
     "oracle_title": "Green Level Clearance",
-    "locale_title": "",
+    "locale_title": "绿色许可",
     "stripped_title": "Green Level Clearance",
     "oracle_text": "Gain 3[credit] and draw 1 card.",
     "locale_text": "",
@@ -24216,7 +24216,7 @@
   {
     "codename": "grndl_refinery",
     "oracle_title": "GRNDL Refinery",
-    "locale_title": "",
+    "locale_title": "地新研发所冶炼厂",
     "stripped_title": "GRNDL Refinery",
     "oracle_text": "GRNDL Refinery can be advanced.\n[click], [trash]: Gain 4[credit] for each advancement token on GRNDL Refinery.",
     "locale_text": "",
@@ -24387,7 +24387,7 @@
   {
     "codename": "guinea_pig",
     "oracle_title": "Guinea Pig",
-    "locale_title": "",
+    "locale_title": "实验对象",
     "stripped_title": "Guinea Pig",
     "oracle_text": "Trash your grip.\nGain 10[credit].",
     "locale_text": "",
@@ -24681,7 +24681,7 @@
   {
     "codename": "haas_bioroid_stronger_together",
     "oracle_title": "Haas-Bioroid: Stronger Together",
-    "locale_title": "",
+    "locale_title": "哈斯生化: 强大的凝聚力",
     "stripped_title": "Haas-Bioroid: Stronger Together",
     "oracle_text": "All <strong>bioroid</strong> ice has +1 strength.",
     "locale_text": "",
@@ -24814,7 +24814,7 @@
   {
     "codename": "hadrians_wall",
     "oracle_title": "Hadrian's Wall",
-    "locale_title": "",
+    "locale_title": "哈德良之墙",
     "stripped_title": "Hadrian's Wall",
     "oracle_text": "Hadrian's Wall can be advanced and has +1 strength for each advancement token on it.\n[subroutine] End the run.\n[subroutine] End the run.",
     "locale_text": "",
@@ -24915,7 +24915,7 @@
   {
     "codename": "hailstorm",
     "oracle_title": "Hailstorm",
-    "locale_title": "",
+    "locale_title": "雹暴",
     "stripped_title": "Hailstorm",
     "oracle_text": "[subroutine] Remove a card in the heap from the game.\n[subroutine] End the run.",
     "locale_text": "",
@@ -25018,7 +25018,7 @@
   {
     "codename": "hangeki",
     "oracle_title": "Hangeki",
-    "locale_title": "",
+    "locale_title": "反击",
     "stripped_title": "Hangeki",
     "oracle_text": "Play only if the Runner trashed a Corp card during their last turn and you have at least 1 installed card.\nChoose 1 of your installed cards. The Runner may access that card. If they do, remove this operation from the game; otherwise, add this operation to the Runner's score area as an agenda worth -1 agenda point.",
     "locale_text": "",
@@ -25575,7 +25575,7 @@
   {
     "codename": "heimdall_1_0",
     "oracle_title": "Heimdall 1.0",
-    "locale_title": "",
+    "locale_title": "海姆达尔1.0",
     "stripped_title": "Heimdall 1.0",
     "oracle_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.\n[subroutine] End the run.",
     "locale_text": "",
@@ -25678,7 +25678,7 @@
   {
     "codename": "helheim_servers",
     "oracle_title": "Helheim Servers",
-    "locale_title": "",
+    "locale_title": "赫尔海姆服务器",
     "stripped_title": "Helheim Servers",
     "oracle_text": "<strong>Trash 1 card from HQ</strong>: All ice protecting this server has +2 strength until the end of the run. Use this ability only during a run on this server.",
     "locale_text": "",
@@ -25841,7 +25841,7 @@
   {
     "codename": "hemorrhage",
     "oracle_title": "Hemorrhage",
-    "locale_title": "",
+    "locale_title": "出血症",
     "stripped_title": "Hemorrhage",
     "oracle_text": "Whenever you make a successful run, place 1 virus counter on Hemorrhage.\n[click], <strong>2 hosted virus counters:</strong> The Corp trashes 1 card from HQ.",
     "locale_text": "",
@@ -25874,7 +25874,7 @@
   {
     "codename": "henry_phillips",
     "oracle_title": "Henry Phillips",
-    "locale_title": "",
+    "locale_title": "亨利·菲利普斯",
     "stripped_title": "Henry Phillips",
     "oracle_text": "Whenever the Runner breaks a subroutine during a run on this server, gain 2[credit] if they are tagged.",
     "locale_text": "",
@@ -26039,7 +26039,7 @@
   {
     "codename": "high_profile_target",
     "oracle_title": "High-Profile Target",
-    "locale_title": "",
+    "locale_title": "显要目标",
     "stripped_title": "High-Profile Target",
     "oracle_text": "Play only if the Runner is tagged.\nDo 2 meat damage for each tag the Runner has.",
     "locale_text": "",
@@ -26139,7 +26139,7 @@
   {
     "codename": "hijacked_router",
     "oracle_title": "Hijacked Router",
-    "locale_title": "",
+    "locale_title": "被劫持的路由器",
     "stripped_title": "Hijacked Router",
     "oracle_text": "Whenever the Corp creates a server, they lose 1[credit].\nWhenever you make a successful run on Archives, you may trash this hardware. If you do, the Corp loses 3[credit].",
     "locale_text": "",
@@ -26170,7 +26170,7 @@
   {
     "codename": "himitsu_bako",
     "oracle_title": "Himitsu-Bako",
-    "locale_title": "",
+    "locale_title": "奥秘箱",
     "stripped_title": "Himitsu-Bako",
     "oracle_text": "1[credit]: Add Himitsu-Bako to HQ.\n[subroutine] End the run.",
     "locale_text": "",
@@ -26203,7 +26203,7 @@
   {
     "codename": "hippo",
     "oracle_title": "Hippo",
-    "locale_title": "",
+    "locale_title": "河马",
     "stripped_title": "Hippo",
     "oracle_text": "The first time each turn you fully break the outermost piece of ice protecting the attacked server during a run, you may remove this hardware from the game to trash that ice.",
     "locale_text": "",
@@ -26301,7 +26301,7 @@
   {
     "codename": "hive",
     "oracle_title": "Hive",
-    "locale_title": "",
+    "locale_title": "蜂巢",
     "stripped_title": "Hive",
     "oracle_text": "This ice loses 1 of its printed \"[subroutine] End the run.\" subroutines for each agenda point in your score area.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
     "locale_text": "",
@@ -26434,7 +26434,7 @@
   {
     "codename": "holmegaard",
     "oracle_title": "Holmegaard",
-    "locale_title": "",
+    "locale_title": "霍尔美加德",
     "stripped_title": "Holmegaard",
     "oracle_text": "[subroutine] Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.\n[subroutine] Trash 1 installed <strong>icebreaker</strong>.",
     "locale_text": "",
@@ -26568,7 +26568,7 @@
   {
     "codename": "hostage",
     "oracle_title": "Hostage",
-    "locale_title": "",
+    "locale_title": "人质",
     "stripped_title": "Hostage",
     "oracle_text": "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack.",
     "locale_text": "",
@@ -26634,7 +26634,7 @@
   {
     "codename": "hostile_infrastructure",
     "oracle_title": "Hostile Infrastructure",
-    "locale_title": "",
+    "locale_title": "敌意架构",
     "stripped_title": "Hostile Infrastructure",
     "oracle_text": "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage.",
     "locale_text": "",
@@ -26698,7 +26698,7 @@
   {
     "codename": "hot_pursuit",
     "oracle_title": "Hot Pursuit",
-    "locale_title": "",
+    "locale_title": "热力追缉",
     "stripped_title": "Hot Pursuit",
     "oracle_text": "Make a run on HQ. If successful, gain 9[credit] and take 1 tag.",
     "locale_text": "",
@@ -26898,7 +26898,7 @@
   {
     "codename": "hq_interface",
     "oracle_title": "HQ Interface",
-    "locale_title": "",
+    "locale_title": "总部接口",
     "stripped_title": "HQ Interface",
     "oracle_text": "Whenever you breach HQ, access 1 additional card.",
     "locale_text": "",
@@ -26929,7 +26929,7 @@
   {
     "codename": "hudson_1_0",
     "oracle_title": "Hudson 1.0",
-    "locale_title": "",
+    "locale_title": "哈德森1.0",
     "stripped_title": "Hudson 1.0",
     "oracle_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot access more than 1 card during this run.\n[subroutine] The Runner cannot access more than 1 card during this run.",
     "locale_text": "",
@@ -27027,7 +27027,7 @@
   {
     "codename": "hunter",
     "oracle_title": "Hunter",
-    "locale_title": "",
+    "locale_title": "狩猎者",
     "stripped_title": "Hunter",
     "oracle_text": "[subroutine] Trace[3]. If successful, give the Runner 1 tag.",
     "locale_text": "",
@@ -27196,7 +27196,7 @@
   {
     "codename": "hydra",
     "oracle_title": "Hydra",
-    "locale_title": "",
+    "locale_title": "多头蛇",
     "stripped_title": "Hydra",
     "oracle_text": "[subroutine] Do 3 net damage if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] Gain 5[credit] if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged; otherwise, give the Runner 1 tag.\n",
     "locale_text": "",
@@ -27395,7 +27395,7 @@
   {
     "codename": "hyperloop_extension",
     "oracle_title": "Hyperloop Extension",
-    "locale_title": "",
+    "locale_title": "超回路延线",
     "stripped_title": "Hyperloop Extension",
     "oracle_text": "When Hyperloop Extension is scored or stolen, the Corp gains 3[credit].",
     "locale_text": "",
@@ -27559,7 +27559,7 @@
   {
     "codename": "ice_analyzer",
     "oracle_title": "Ice Analyzer",
-    "locale_title": "",
+    "locale_title": "防火墙分析器",
     "stripped_title": "Ice Analyzer",
     "oracle_text": "Whenever the Corp rezzes a piece of ice, place 1[credit] on Ice Analyzer.\nYou may use credits on Ice Analyzer to install programs.",
     "locale_text": "",
@@ -27658,7 +27658,7 @@
   {
     "codename": "ichi_1_0",
     "oracle_title": "Ichi 1.0",
-    "locale_title": "",
+    "locale_title": "女座头市1.0",
     "stripped_title": "Ichi 1.0",
     "oracle_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, do 1 core damage and give the Runner 1 tag.",
     "locale_text": "",
@@ -27763,7 +27763,7 @@
   {
     "codename": "ika",
     "oracle_title": "Ika",
-    "locale_title": "",
+    "locale_title": "乌贼",
     "stripped_title": "Ika",
     "oracle_text": "<strong>2[credit]:</strong> Host this program on a piece of ice.\nInterface → <strong>1[credit]:</strong> Break up to 2 subroutines on host <strong>sentry</strong>.\n<strong>2[credit]:</strong> +3 strength.",
     "locale_text": "",
@@ -27798,7 +27798,7 @@
   {
     "codename": "ikawah_project",
     "oracle_title": "Ikawah Project",
-    "locale_title": "",
+    "locale_title": "易卡瓦计划",
     "stripped_title": "Ikawah Project",
     "oracle_text": "As an additional cost to steal Ikawah Project, the Runner must spend [click] and 2[credit].",
     "locale_text": "",
@@ -27831,7 +27831,7 @@
   {
     "codename": "illegal_arms_factory",
     "oracle_title": "Illegal Arms Factory",
-    "locale_title": "",
+    "locale_title": "非法武器厂",
     "stripped_title": "Illegal Arms Factory",
     "oracle_text": "If the Runner trashes Illegal Arms Factory while it is installed, take 1 bad publicity.\nWhen your turn begins, gain 1[credit] and draw 1 card.",
     "locale_text": "",
@@ -27865,7 +27865,7 @@
   {
     "codename": "illicit_sales",
     "oracle_title": "Illicit Sales",
-    "locale_title": "",
+    "locale_title": "非法销售",
     "stripped_title": "Illicit Sales",
     "oracle_text": "When you score Illicit Sales, you may take 1 bad publicity. Gain 3[credit] for each bad publicity that you have.",
     "locale_text": "",
@@ -28226,7 +28226,7 @@
   {
     "codename": "indexing",
     "oracle_title": "Indexing",
-    "locale_title": "",
+    "locale_title": "索引化",
     "stripped_title": "Indexing",
     "oracle_text": "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order.",
     "locale_text": "",
@@ -28323,7 +28323,7 @@
   {
     "codename": "infiltration",
     "oracle_title": "Infiltration",
-    "locale_title": "",
+    "locale_title": "潜入",
     "stripped_title": "Infiltration",
     "oracle_text": "Gain 2[credit] or expose 1 card.",
     "locale_text": "",
@@ -28617,7 +28617,7 @@
   {
     "codename": "insight",
     "oracle_title": "Insight",
-    "locale_title": "",
+    "locale_title": "洞察",
     "stripped_title": "Insight",
     "oracle_text": "As an additional cost to play this event, spend [click].\nThe Corp may look at the top 4 cards of R&D and arrange them in any order.\nReveal the top 4 cards of R&D.",
     "locale_text": "",
@@ -28650,7 +28650,7 @@
   {
     "codename": "intake",
     "oracle_title": "Intake",
-    "locale_title": "",
+    "locale_title": "摄入",
     "stripped_title": "Intake",
     "oracle_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, Trace[4]. If successful, add 1 installed program or <strong>virtual</strong> resource to the grip.",
     "locale_text": "",
@@ -29213,7 +29213,7 @@
   {
     "codename": "ipo",
     "oracle_title": "IPO",
-    "locale_title": "",
+    "locale_title": "首次公开募股",
     "stripped_title": "IPO",
     "oracle_text": "After you resolve this operation, end your action phase.\nGain 13[credit].",
     "locale_text": "",
@@ -29608,7 +29608,7 @@
   {
     "codename": "jackpot",
     "oracle_title": "Jackpot!",
-    "locale_title": "",
+    "locale_title": "头彩！",
     "stripped_title": "Jackpot!",
     "oracle_text": "When your turn begins, you may place 1[credit] on Jackpot!.\nWhenever an agenda is added to your score area, you may take any number of credits from Jackpot!. If you do, trash Jackpot!.",
     "locale_text": "",
@@ -30040,7 +30040,7 @@
   {
     "codename": "jinja_city_grid",
     "oracle_title": "Jinja City Grid",
-    "locale_title": "",
+    "locale_title": "金贾城际网阵",
     "stripped_title": "Jinja City Grid",
     "oracle_text": "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4[credit] less.\nLimit 1 <strong>region</strong> per server.",
     "locale_text": "",
@@ -30172,7 +30172,7 @@
   {
     "codename": "jinteki_replicating_perfection",
     "oracle_title": "Jinteki: Replicating Perfection",
-    "locale_title": "",
+    "locale_title": "人间会社: 复制完美",
     "stripped_title": "Jinteki: Replicating Perfection",
     "oracle_text": "The Runner cannot run on remote servers. Ignore this ability until the end of the turn whenever the Runner runs on a central server.",
     "locale_text": "",
@@ -30238,7 +30238,7 @@
   {
     "codename": "john_masanori",
     "oracle_title": "John Masanori",
-    "locale_title": "",
+    "locale_title": "约翰·正德",
     "stripped_title": "John Masanori",
     "oracle_text": "The first time you make a successful run each turn, draw 1 card.\nThe first time you make an unsuccessful run each turn, take 1 tag.",
     "locale_text": "",
@@ -30337,7 +30337,7 @@
   {
     "codename": "jua",
     "oracle_title": "Jua",
-    "locale_title": "",
+    "locale_title": "烈日",
     "stripped_title": "Jua",
     "oracle_text": "When the Runner encounters this ice, they cannot install cards for the remainder of the turn.\n[subroutine] Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack.",
     "locale_text": "",
@@ -30403,7 +30403,7 @@
   {
     "codename": "jumon",
     "oracle_title": "Jumon",
-    "locale_title": "",
+    "locale_title": "咒文",
     "stripped_title": "Jumon",
     "oracle_text": "When your turn ends, place 2 advancement counters on 1 card in the root of a remote server.",
     "locale_text": "",
@@ -30467,7 +30467,7 @@
   {
     "codename": "k_p_lynn",
     "oracle_title": "K. P. Lynn",
-    "locale_title": "",
+    "locale_title": "K·P·林恩",
     "stripped_title": "K. P. Lynn",
     "oracle_text": "Whenever the Runner passes all of the ice protecting this server, they must take 1 tag or end the run.",
     "locale_text": "",
@@ -30500,7 +30500,7 @@
   {
     "codename": "kabonesa_wu_netspace_thrillseeker",
     "oracle_title": "Kabonesa Wu: Netspace Thrillseeker",
-    "locale_title": "",
+    "locale_title": "卡波尼萨·吴: 网域觅险者",
     "stripped_title": "Kabonesa Wu: Netspace Thrillseeker",
     "oracle_text": "[click]: Search your stack for a non-<strong>virus</strong> program and install it, lowering its install cost by 1[credit], then shuffle your stack. If that program is still installed when your turn ends, remove it from the game.",
     "locale_text": "",
@@ -30633,7 +30633,7 @@
   {
     "codename": "kamali_1_0",
     "oracle_title": "Kamali 1.0",
-    "locale_title": "",
+    "locale_title": "卡玛利1.0",
     "stripped_title": "Kamali 1.0",
     "oracle_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed resource.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed piece of hardware.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed program.",
     "locale_text": "",
@@ -30703,7 +30703,7 @@
   {
     "codename": "kasi_string",
     "oracle_title": "Kasi String",
-    "locale_title": "",
+    "locale_title": "卡西字符串",
     "stripped_title": "Kasi String",
     "oracle_text": "The first time each turn a successful run on a remote server ends, if you breached the server but stole no agendas, you may place 1 power counter on this resource.\nWhen this resource has 4 or more hosted power counters, add it to your score area as an agenda worth 1 agenda point.",
     "locale_text": "",
@@ -30769,7 +30769,7 @@
   {
     "codename": "kati_jones",
     "oracle_title": "Kati Jones",
-    "locale_title": "",
+    "locale_title": "凯蒂·琼斯",
     "stripped_title": "Kati Jones",
     "oracle_text": "You cannot use this resource more than once per turn.\n[click]<strong>:</strong> Place 3[credit] on this resource.\n[click]<strong>:</strong> Take all credits from this resource.",
     "locale_text": "",
@@ -30935,7 +30935,7 @@
   {
     "codename": "keros_mcintyre",
     "oracle_title": "Keros Mcintyre",
-    "locale_title": "",
+    "locale_title": "克罗斯·麦金泰尔",
     "stripped_title": "Keros Mcintyre",
     "oracle_text": "The first time you derez a piece of ice each turn, gain 2[credit].",
     "locale_text": "",
@@ -31164,7 +31164,7 @@
   {
     "codename": "kill_switch",
     "oracle_title": "Kill Switch",
-    "locale_title": "",
+    "locale_title": "杀戮开关",
     "stripped_title": "Kill Switch",
     "oracle_text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhile the Runner is accessing an agenda in R&D, they must reveal it.\nWhenever an agenda is accessed or scored, Trace[3]. If successful, do 1 core damage.",
     "locale_text": "",
@@ -31433,7 +31433,7 @@
   {
     "codename": "knobkierie",
     "oracle_title": "Knobkierie",
-    "locale_title": "",
+    "locale_title": "圆头棒",
     "stripped_title": "Knobkierie",
     "oracle_text": "+3[mu]\nUse the MU on Knobkierie only for <strong>virus</strong> programs.\nThe first time you make a successful run each turn, you may place 1 virus counter on an installed <strong>virus</strong> program.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -31500,7 +31500,7 @@
   {
     "codename": "kongamato",
     "oracle_title": "Kongamato",
-    "locale_title": "",
+    "locale_title": "康加玛托",
     "stripped_title": "Kongamato",
     "oracle_text": "[trash]: Break the first subroutine on the encountered piece of ice.",
     "locale_text": "",
@@ -31598,7 +31598,7 @@
   {
     "codename": "kuwinda_k4h1u3",
     "oracle_title": "Kuwinda K4H1U3",
-    "locale_title": "",
+    "locale_title": "库温达K4H1U3",
     "stripped_title": "Kuwinda K4H1U3",
     "oracle_text": "When your turn begins, you may trace[X], where X is equal to the number of hosted power counters. If successful, do 1 core damage and trash this asset. If unsuccessful, place 1 power counter on this asset.",
     "locale_text": "",
@@ -31631,7 +31631,7 @@
   {
     "codename": "kyuban",
     "oracle_title": "Kyuban",
-    "locale_title": "",
+    "locale_title": "吸盘",
     "stripped_title": "Kyuban",
     "oracle_text": "Install only on a piece of ice.\nWhenever you pass host ice, gain 2[credit].",
     "locale_text": "",
@@ -31698,7 +31698,7 @@
   {
     "codename": "laamb",
     "oracle_title": "Laamb",
-    "locale_title": "",
+    "locale_title": "拉姆布",
     "stripped_title": "Laamb",
     "oracle_text": "Once per turn → When you encounter a piece of ice, you may pay 2[credit]. If you do, it gains <strong>barrier</strong> for the remainder of that encounter.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>3[credit]:</strong> +6 strength.",
     "locale_text": "",
@@ -31829,7 +31829,7 @@
   {
     "codename": "lady_liberty",
     "oracle_title": "Lady Liberty",
-    "locale_title": "",
+    "locale_title": "自由女神",
     "stripped_title": "Lady Liberty",
     "oracle_text": "When your turn begins, place 1 power counter on Lady Liberty.\n[click], [click], [click]: Add an agenda from HQ to your score area worth agenda points equal to the exact number of hosted power counters.\nLimit 1 <strong>region</strong> per server.\nLimit 1 per deck.",
     "locale_text": "",
@@ -31930,7 +31930,7 @@
   {
     "codename": "laguna_velasco_district",
     "oracle_title": "Laguna Velasco District",
-    "locale_title": "",
+    "locale_title": "韦拉斯科湖区",
     "stripped_title": "Laguna Velasco District",
     "oracle_text": "Whenever you take the basic action to draw cards, increase the number of cards you draw by 1.",
     "locale_text": "",
@@ -32029,7 +32029,7 @@
   {
     "codename": "lamprey",
     "oracle_title": "Lamprey",
-    "locale_title": "",
+    "locale_title": "七腮鳗",
     "stripped_title": "Lamprey",
     "oracle_text": "Whenever you make a successful run on HQ, the Corp loses 1[credit].\nTrash Lamprey if the Corp purges virus counters.",
     "locale_text": "",
@@ -32295,7 +32295,7 @@
   {
     "codename": "lean_and_mean",
     "oracle_title": "Lean and Mean",
-    "locale_title": "",
+    "locale_title": "至精至简",
     "stripped_title": "Lean and Mean",
     "oracle_text": "Make a run. If you have 3 or fewer programs installed, all <strong>icebreakers</strong> have +2 strength during this run.",
     "locale_text": "",
@@ -32328,7 +32328,7 @@
   {
     "codename": "leave_no_trace",
     "oracle_title": "Leave No Trace",
-    "locale_title": "",
+    "locale_title": "不留痕迹",
     "stripped_title": "Leave No Trace",
     "oracle_text": "Make a run. When the run ends, derez all ice that was rezzed during this run.",
     "locale_text": "",
@@ -32394,7 +32394,7 @@
   {
     "codename": "leela_patel_trained_pragmatist",
     "oracle_title": "Leela Patel: Trained Pragmatist",
-    "locale_title": "",
+    "locale_title": "莉拉·帕特尔: 受训实用派",
     "stripped_title": "Leela Patel: Trained Pragmatist",
     "oracle_text": "Whenever an agenda is scored or stolen, add 1 unrezzed card to HQ.",
     "locale_text": "",
@@ -32754,7 +32754,7 @@
   {
     "codename": "lewi_guilherme",
     "oracle_title": "Lewi Guilherme",
-    "locale_title": "",
+    "locale_title": "莱维·吉列尔梅",
     "stripped_title": "Lewi Guilherme",
     "oracle_text": "When your turn begins, either lose 1[credit] or trash Lewi Guilherme.\nThe Corp's maximum hand size is reduced by 1.",
     "locale_text": "",
@@ -33152,7 +33152,7 @@
   {
     "codename": "liza_talking_thunder_prominent_legislator",
     "oracle_title": "Liza Talking Thunder: Prominent Legislator",
-    "locale_title": "",
+    "locale_title": "丽莎·雷鸣: 知名立法者",
     "stripped_title": "Liza Talking Thunder: Prominent Legislator",
     "oracle_text": "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag.",
     "locale_text": "",
@@ -33216,7 +33216,7 @@
   {
     "codename": "llds_memory_diamond",
     "oracle_title": "LLDS Memory Diamond",
-    "locale_title": "",
+    "locale_title": "LLDS记忆钻石",
     "stripped_title": "LLDS Memory Diamond",
     "oracle_text": "+1[mu], +1[link]\nYour maximum hand size is increased by 1.",
     "locale_text": "",
@@ -33282,7 +33282,7 @@
   {
     "codename": "load_testing",
     "oracle_title": "Load Testing",
-    "locale_title": "",
+    "locale_title": "负载测试",
     "stripped_title": "Load Testing",
     "oracle_text": "When the Runner's next turn begins, they lose [click].",
     "locale_text": "",
@@ -33446,7 +33446,7 @@
   {
     "codename": "logic_bomb",
     "oracle_title": "Logic Bomb",
-    "locale_title": "",
+    "locale_title": "逻辑炸弹",
     "stripped_title": "Logic Bomb",
     "oracle_text": "[trash]: Bypass a piece of ice you are currently encountering. Lose any remaining clicks.",
     "locale_text": "",
@@ -33545,7 +33545,7 @@
   {
     "codename": "loki",
     "oracle_title": "Loki",
-    "locale_title": "",
+    "locale_title": "洛基",
     "stripped_title": "Loki",
     "oracle_text": "When the Runner encounters this ice, choose another rezzed piece of ice. For the remainder of this run, this ice gains the subtypes of the chosen ice and gains the subroutines of that ice in order before all its other subroutines.\n[subroutine] The Runner must either end the run or shuffle all cards from the grip into the stack.",
     "locale_text": "",
@@ -33611,7 +33611,7 @@
   {
     "codename": "long_term_investment",
     "oracle_title": "Long-Term Investment",
-    "locale_title": "",
+    "locale_title": "长期投资",
     "stripped_title": "Long-Term Investment",
     "oracle_text": "When your turn begins, place 2[credit] on Long-Term Investment. If there are at least 8[credit] on Long-Term Investment, it gains \"[click]: Take any number of credits from Long-Term Investment.\"",
     "locale_text": "",
@@ -33873,7 +33873,7 @@
   {
     "codename": "lucky_find",
     "oracle_title": "Lucky Find",
-    "locale_title": "",
+    "locale_title": "幸运发现",
     "stripped_title": "Lucky Find",
     "oracle_text": "As an additional cost to play this event, spend [click].\nGain 9[credit].",
     "locale_text": "",
@@ -33939,7 +33939,7 @@
   {
     "codename": "lustig",
     "oracle_title": "Lustig",
-    "locale_title": "",
+    "locale_title": "卢斯蒂格",
     "stripped_title": "Lustig",
     "oracle_text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>3[credit]:</strong> +5 strength.\n<strong>[trash]:</strong> Bypass the <strong>sentry</strong> you are encountering.",
     "locale_text": "",
@@ -34075,7 +34075,7 @@
   {
     "codename": "mache",
     "oracle_title": "Mâché",
-    "locale_title": "",
+    "locale_title": "制型",
     "stripped_title": "Mache",
     "oracle_text": "The first time you trash an accessed card each turn, you may place power counters on Mâché equal to that card's trash cost.\n<strong>3 hosted power counters</strong>: Draw 1 card.",
     "locale_text": "",
@@ -34374,7 +34374,7 @@
   {
     "codename": "magnum_opus",
     "oracle_title": "Magnum Opus",
-    "locale_title": "",
+    "locale_title": "巨作",
     "stripped_title": "Magnum Opus",
     "oracle_text": "[click]: Gain 2[credit].",
     "locale_text": "",
@@ -34601,7 +34601,7 @@
   {
     "codename": "malia_z0l0k4",
     "oracle_title": "Malia Z0L0K4",
-    "locale_title": "",
+    "locale_title": "马里雅Z0L0K4",
     "stripped_title": "Malia Z0L0K4",
     "oracle_text": "When you rez this asset, choose 1 installed non-<strong>virtual</strong> resource.\nThe chosen resource loses its printed abilities.",
     "locale_text": "",
@@ -34669,7 +34669,7 @@
   {
     "codename": "mammon",
     "oracle_title": "Mammon",
-    "locale_title": "",
+    "locale_title": "玛门",
     "stripped_title": "Mammon",
     "oracle_text": "When your turn begins, you may spend any number of credits to place that many power counters on this program.\nWhen your discard phase ends, remove all hosted power counters.\nInterface → <strong>Hosted power counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +2 strength.",
     "locale_text": "",
@@ -34703,7 +34703,7 @@
   {
     "codename": "mandatory_seed_replacement",
     "oracle_title": "Mandatory Seed Replacement",
-    "locale_title": "",
+    "locale_title": "强制换种",
     "stripped_title": "Mandatory Seed Replacement",
     "oracle_text": "When you score Mandatory Seed Replacement, rearrange any number of ice protecting all servers.",
     "locale_text": "",
@@ -34932,7 +34932,7 @@
   {
     "codename": "marathon",
     "oracle_title": "Marathon",
-    "locale_title": "",
+    "locale_title": "马拉松",
     "stripped_title": "Marathon",
     "oracle_text": "Make a run on a remote server. When the run ends, gain [click] and add Marathon to your grip instead of trashing it if the run was successful. You may not make another run on that server for the remainder of this turn.",
     "locale_text": "",
@@ -35099,7 +35099,7 @@
   {
     "codename": "marked_accounts",
     "oracle_title": "Marked Accounts",
-    "locale_title": "",
+    "locale_title": "标记账户",
     "stripped_title": "Marked Accounts",
     "oracle_text": "When your turn begins, take 1[credit] from Marked Accounts, if able.\n[click]: Place 3[credit] from the bank on Marked Accounts.",
     "locale_text": "",
@@ -35165,7 +35165,7 @@
   {
     "codename": "market_forces",
     "oracle_title": "Market Forces",
-    "locale_title": "",
+    "locale_title": "市场力量",
     "stripped_title": "Market Forces",
     "oracle_text": "Play only if the Runner is tagged.\nThe Runner loses 3[credit] for each tag they have, then you gain 1[credit] for each credit lost this way.",
     "locale_text": "",
@@ -35299,7 +35299,7 @@
   {
     "codename": "mars_for_martians",
     "oracle_title": "Mars for Martians",
-    "locale_title": "",
+    "locale_title": "火星属于火星人",
     "stripped_title": "Mars for Martians",
     "oracle_text": "Play only as your first [click].\nDraw 1 card for each installed <strong>clan</strong> resource. Gain 1[credit] for each tag you have.",
     "locale_text": "",
@@ -35335,7 +35335,7 @@
     "locale_title": "伪装",
     "stripped_title": "Maskirovka",
     "oracle_text": "[subroutine] Gain 2[credit].\n[subroutine] End the run.",
-    "locale_text": "\n[subroutine] 获得2[credit]。\n[subroutine] 终止本次潜袭。",
+    "locale_text": "[subroutine] 获得2[credit]。\n[subroutine] 终止本次潜袭。",
     "stripped_text": "Subroutine Gain 2 credits. Subroutine End the run.",
     "type_codename": "ice",
     "subtype_codenames": [
@@ -35365,7 +35365,7 @@
   {
     "codename": "mason_bellamy",
     "oracle_title": "Mason Bellamy",
-    "locale_title": "",
+    "locale_title": "梅森·贝拉米",
     "stripped_title": "Mason Bellamy",
     "oracle_text": "Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose [click].",
     "locale_text": "",
@@ -35398,7 +35398,7 @@
   {
     "codename": "mass_commercialization",
     "oracle_title": "Mass Commercialization",
-    "locale_title": "",
+    "locale_title": "大规模商业化",
     "stripped_title": "Mass Commercialization",
     "oracle_text": "Gain 2[credit] for each card with at least 1 advancement token on it.",
     "locale_text": "",
@@ -35431,7 +35431,7 @@
   {
     "codename": "mass_driver",
     "oracle_title": "Mass-Driver",
-    "locale_title": "",
+    "locale_title": "质量投射器",
     "stripped_title": "Mass-Driver",
     "oracle_text": "Whenever this program fully breaks a piece of ice, the first 3 subroutines of the next encounter this run do not resolve.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
     "locale_text": "",
@@ -35529,7 +35529,7 @@
   {
     "codename": "masvingo",
     "oracle_title": "Masvingo",
-    "locale_title": "",
+    "locale_title": "马斯温戈",
     "stripped_title": "Masvingo",
     "oracle_text": "Masvingo can be advanced.\nWhen you rez Masvingo, place 1 advancement token on it.\nMasvingo gains \"[subroutine] End the run.\" for each advancement token on it.",
     "locale_text": "",
@@ -35631,7 +35631,7 @@
   {
     "codename": "maui",
     "oracle_title": "Māui",
-    "locale_title": "",
+    "locale_title": "毛伊",
     "stripped_title": "Maui",
     "oracle_text": "+2[mu]\nX[recurring-credit]\nUse these credits during runs on HQ. X is the number of pieces of ice protecting HQ.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -35698,7 +35698,7 @@
   {
     "codename": "maven",
     "oracle_title": "Maven",
-    "locale_title": "",
+    "locale_title": "名家",
     "stripped_title": "Maven",
     "oracle_text": "This program gets +1 strength for each installed program.\nInterface → <strong>2[credit]:</strong> Break 1 subroutine.",
     "locale_text": "",
@@ -35798,7 +35798,7 @@
   {
     "codename": "maxwell_james",
     "oracle_title": "Maxwell James",
-    "locale_title": "",
+    "locale_title": "麦克斯韦·詹姆斯",
     "stripped_title": "Maxwell James",
     "oracle_text": "+1[link]\n[trash]: Derez a piece of ice protecting a remote server. Use this ability only during the next paid ability window after a successful run on HQ ends.",
     "locale_text": "",
@@ -35931,7 +35931,7 @@
   {
     "codename": "mca_austerity_policy",
     "oracle_title": "MCA Austerity Policy",
-    "locale_title": "",
+    "locale_title": "火殖地当局紧缩政策",
     "stripped_title": "MCA Austerity Policy",
     "oracle_text": "Once per turn → [click]<strong>:</strong> Place 1 power counter on this asset. When the Runner's next turn begins, they lose [click].\n[click], [trash], <strong>3 hosted power counters:</strong> Gain [click][click][click][click].",
     "locale_text": "",
@@ -35962,7 +35962,7 @@
   {
     "codename": "mca_informant",
     "oracle_title": "MCA Informant",
-    "locale_title": "",
+    "locale_title": "火殖地当局线人",
     "stripped_title": "MCA Informant",
     "oracle_text": "After you resolve this operation, your action phase ends.\nHost this operation on an installed <strong>connection</strong> resource as a condition counter with \"The Runner is considered to have 1 additional tag. Host resource gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this resource.'\"",
     "locale_text": "",
@@ -36127,7 +36127,7 @@
   {
     "codename": "medium",
     "oracle_title": "Medium",
-    "locale_title": "",
+    "locale_title": "培养基",
     "stripped_title": "Medium",
     "oracle_text": "Whenever you make a successful run on R&D, place 1 virus counter on this program.\nWhenever you breach R&D, choose a number less than the number of hosted virus counters. Access that many additional cards.",
     "locale_text": "",
@@ -36222,7 +36222,7 @@
   {
     "codename": "melange_mining_corp",
     "oracle_title": "Melange Mining Corp.",
-    "locale_title": "",
+    "locale_title": "混合矿业公司",
     "stripped_title": "Melange Mining Corp.",
     "oracle_text": "[click], [click], [click]: Gain 7[credit].",
     "locale_text": "",
@@ -36419,7 +36419,7 @@
   {
     "codename": "meridian",
     "oracle_title": "Meridian",
-    "locale_title": "",
+    "locale_title": "子午线",
     "stripped_title": "Meridian",
     "oracle_text": "[subroutine] Gain 4[credit] and end the run unless the Runner adds this ice to their score area as an agenda worth -1 agenda point.",
     "locale_text": "",
@@ -36553,7 +36553,7 @@
   {
     "codename": "metamorph",
     "oracle_title": "Metamorph",
-    "locale_title": "",
+    "locale_title": "变质",
     "stripped_title": "Metamorph",
     "oracle_text": "[subroutine] Swap 2 other installed pieces of ice or 2 of your installed non-ice cards.",
     "locale_text": "",
@@ -36618,7 +36618,7 @@
   {
     "codename": "mganga",
     "oracle_title": "Mganga",
-    "locale_title": "",
+    "locale_title": "巫医",
     "stripped_title": "Mganga",
     "oracle_text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Runner spend a different number of credits, do 2 net damage; otherwise do 1 net damage. Trash Mganga.",
     "locale_text": "",
@@ -36853,7 +36853,7 @@
   {
     "codename": "minds_eye",
     "oracle_title": "Mind's Eye",
-    "locale_title": "",
+    "locale_title": "心灵之眼",
     "stripped_title": "Mind's Eye",
     "oracle_text": "+1[mu]\nWhenever you make a successful run on R&D, you may place 1 power counter on this hardware.\n<strong>[click]</strong>, <strong>3 hosted power counters:</strong> Breach R&D. You cannot access cards in the root of R&D during this breach.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -36952,7 +36952,7 @@
   {
     "codename": "mining_accident",
     "oracle_title": "Mining Accident",
-    "locale_title": "",
+    "locale_title": "采矿事故",
     "stripped_title": "Mining Accident",
     "oracle_text": "Play only if you made a successful run on a central server this turn.\nThe Corp must pay 5[credit] or take 1 bad publicity. Remove Mining Accident from the game instead of trashing it.",
     "locale_text": "",
@@ -36983,7 +36983,7 @@
   {
     "codename": "miraju",
     "oracle_title": "Mirāju",
-    "locale_title": "",
+    "locale_title": "蜃楼",
     "stripped_title": "Miraju",
     "oracle_text": "Whenever an encounter with this ice ends, if the Runner broke its printed subroutine, the Runner moves to the outermost position of Archives instead of passing this ice. They may jack out. Derez this ice.\n[subroutine] You may draw 1 card. Then, shuffle 1 card from HQ into R&D.",
     "locale_text": "",
@@ -37114,7 +37114,7 @@
   {
     "codename": "miss_bones",
     "oracle_title": "Miss Bones",
-    "locale_title": "",
+    "locale_title": "白骨小姐",
     "stripped_title": "Miss Bones",
     "oracle_text": "Place 12[credit] from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her.\nUse these credits to trash installed cards.",
     "locale_text": "",
@@ -37247,7 +37247,7 @@
   {
     "codename": "mlinzi",
     "oracle_title": "Mlinzi",
-    "locale_title": "",
+    "locale_title": "护卫",
     "stripped_title": "Mlinzi",
     "oracle_text": "[subroutine] Do 1 net damage unless the Runner trashes the top 2 cards of the stack.\n[subroutine] Do 2 net damage unless the Runner trashes the top 3 cards of the stack.\n[subroutine] Do 3 net damage unless the Runner trashes the top 4 cards of the stack.",
     "locale_text": "",
@@ -37281,7 +37281,7 @@
   {
     "codename": "mobius",
     "oracle_title": "Möbius",
-    "locale_title": "",
+    "locale_title": "莫比乌斯",
     "stripped_title": "Mobius",
     "oracle_text": "Make a run on R&D. If successful, you may make another run on R&D when this run ends. If the second run is successful, gain 4[credit].",
     "locale_text": "",
@@ -37314,7 +37314,7 @@
   {
     "codename": "modded",
     "oracle_title": "Modded",
-    "locale_title": "",
+    "locale_title": "改装",
     "stripped_title": "Modded",
     "oracle_text": "Install a program or piece of hardware, lowering the install cost by 3.",
     "locale_text": "",
@@ -37480,7 +37480,7 @@
   {
     "codename": "morning_star",
     "oracle_title": "Morning Star",
-    "locale_title": "",
+    "locale_title": "晨星锤",
     "stripped_title": "Morning Star",
     "oracle_text": "Interface → <strong>1[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.",
     "locale_text": "",
@@ -37643,7 +37643,7 @@
   {
     "codename": "mr_li",
     "oracle_title": "Mr. Li",
-    "locale_title": "",
+    "locale_title": "李先生",
     "stripped_title": "Mr. Li",
     "oracle_text": "<strong>[click]:</strong> Draw 2 cards. When you do, add 1 of those cards to the bottom of your stack.",
     "locale_text": "",
@@ -37709,7 +37709,7 @@
   {
     "codename": "mti_mwekundu_life_improved",
     "oracle_title": "Mti Mwekundu: Life Improved",
-    "locale_title": "",
+    "locale_title": "红树制药: 改善生活",
     "stripped_title": "Mti Mwekundu: Life Improved",
     "oracle_text": "Once per turn → When the Runner approaches a server, you may install 1 piece of ice from HQ in the innermost position protecting that server, ignoring all costs. The Runner moves to that ice and approaches it. If this is not the first time they have approached ice this run, they may jack out.",
     "locale_text": "",
@@ -38070,7 +38070,7 @@
   {
     "codename": "musaazi",
     "oracle_title": "Musaazi",
-    "locale_title": "",
+    "locale_title": "穆萨齐",
     "stripped_title": "Musaazi",
     "oracle_text": "Whenever you make a successful run, you may place 1 virus counter on this program.\nInterface → <strong>Any virus counter:</strong> Break <strong>sentry</strong> subroutine.\n<strong>Any virus counter:</strong> +1 strength.",
     "locale_text": "",
@@ -38333,7 +38333,7 @@
   {
     "codename": "mwanza_city_grid",
     "oracle_title": "Mwanza City Grid",
-    "locale_title": "",
+    "locale_title": "姆万扎城际网阵",
     "stripped_title": "Mwanza City Grid",
     "oracle_text": "Root of HQ or R&D only.\nWhenever the Runner breaches this server, they access 3 additional cards. When the breach ends, gain 2[credit] for each time the Runner accessed a card during that breach.\nLimit 1 <strong>region</strong> per server.",
     "locale_text": "",
@@ -38466,7 +38466,7 @@
   {
     "codename": "na_not_k",
     "oracle_title": "Na'Not'K",
-    "locale_title": "",
+    "locale_title": "纳补科",
     "stripped_title": "Na'Not'K",
     "oracle_text": "During runs, this program gets +1 strength for each piece of ice protecting the attacked server.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>3[credit]:</strong> +2 strength.",
     "locale_text": "",
@@ -38500,7 +38500,7 @@
   {
     "codename": "najja_1_0",
     "oracle_title": "Najja 1.0",
-    "locale_title": "",
+    "locale_title": "纳贾1.0",
     "stripped_title": "Najja 1.0",
     "oracle_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] End the run.\n[subroutine] End the run.",
     "locale_text": "",
@@ -38795,7 +38795,7 @@
   {
     "codename": "nathaniel_gnat_hall_one_of_a_kind",
     "oracle_title": "Nathaniel \"Gnat\" Hall: One-of-a-Kind",
-    "locale_title": "",
+    "locale_title": "纳撒尼尔·“小虫”·霍尔: 独一无二",
     "stripped_title": "Nathaniel \"Gnat\" Hall: One-of-a-Kind",
     "oracle_text": "When your turn begins, gain 1[credit] if you have 2 or fewer cards in your grip.",
     "locale_text": "",
@@ -38894,7 +38894,7 @@
   {
     "codename": "nbn_making_news",
     "oracle_title": "NBN: Making News",
-    "locale_title": "",
+    "locale_title": "网际传媒: 制造新闻",
     "stripped_title": "NBN: Making News",
     "oracle_text": "2[recurring-credit]\nUse these credits during trace attempts.",
     "locale_text": "",
@@ -39160,7 +39160,7 @@
   {
     "codename": "nerine_2_0",
     "oracle_title": "Nerine 2.0",
-    "locale_title": "",
+    "locale_title": "尼润2.0",
     "stripped_title": "Nerine 2.0",
     "oracle_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage. You may draw 1 card.\n[subroutine] Do 1 core damage. You may draw 1 card.",
     "locale_text": "",
@@ -39618,7 +39618,7 @@
   {
     "codename": "neural_emp",
     "oracle_title": "Neural EMP",
-    "locale_title": "",
+    "locale_title": "神经电磁脉冲",
     "stripped_title": "Neural EMP",
     "oracle_text": "Play only if the Runner made a run during their last turn.\nDo 1 net damage.",
     "locale_text": "",
@@ -39651,7 +39651,7 @@
   {
     "codename": "neural_katana",
     "oracle_title": "Neural Katana",
-    "locale_title": "",
+    "locale_title": "神经枢武士刀",
     "stripped_title": "Neural Katana",
     "oracle_text": "[subroutine] Do 3 net damage.",
     "locale_text": "",
@@ -39718,7 +39718,7 @@
   {
     "codename": "neurostasis",
     "oracle_title": "Neurostasis",
-    "locale_title": "",
+    "locale_title": "神经停滞",
     "stripped_title": "Neurostasis",
     "oracle_text": "Neurostasis can be advanced.\nIf you pay 3[credit] when the Runner accesses Neurostasis, choose 1 installed Runner card for each advancement token on Neurostasis. The Runner must shuffle the chosen cards into the stack.",
     "locale_text": "",
@@ -40018,7 +40018,7 @@
   {
     "codename": "next_bronze",
     "oracle_title": "NEXT Bronze",
-    "locale_title": "",
+    "locale_title": "次级青铜",
     "stripped_title": "NEXT Bronze",
     "oracle_text": "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] End the run.",
     "locale_text": "",
@@ -40085,7 +40085,7 @@
   {
     "codename": "next_diamond",
     "oracle_title": "NEXT Diamond",
-    "locale_title": "",
+    "locale_title": "次级钻石",
     "stripped_title": "NEXT Diamond",
     "oracle_text": "The rez cost of this ice is lowered by 1[credit] for each other rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed Runner card.",
     "locale_text": "",
@@ -40157,7 +40157,7 @@
   {
     "codename": "next_opal",
     "oracle_title": "NEXT Opal",
-    "locale_title": "",
+    "locale_title": "次级欧泊",
     "stripped_title": "NEXT Opal",
     "oracle_text": "This ice gains \"[subroutine] You may install 1 card from HQ.\" for each rezzed piece of <strong>NEXT</strong> ice.",
     "locale_text": "",
@@ -40192,7 +40192,7 @@
   {
     "codename": "next_sapphire",
     "oracle_title": "NEXT Sapphire",
-    "locale_title": "",
+    "locale_title": "次级蓝宝石",
     "stripped_title": "NEXT Sapphire",
     "oracle_text": "X is the number of rezzed <strong>NEXT</strong> ice.\n[subroutine] Draw up to X cards.\n[subroutine] Add up to X cards from Archives to HQ.\n[subroutine] Shuffle up to X cards from HQ into R&D.",
     "locale_text": "",
@@ -40226,7 +40226,7 @@
   {
     "codename": "next_silver",
     "oracle_title": "NEXT Silver",
-    "locale_title": "",
+    "locale_title": "次级白银",
     "stripped_title": "NEXT Silver",
     "oracle_text": "NEXT Silver gains \"[subroutine] End the run.\" for each rezzed piece of <strong>NEXT</strong> ice.",
     "locale_text": "",
@@ -40358,7 +40358,7 @@
   {
     "codename": "ngo_front",
     "oracle_title": "NGO Front",
-    "locale_title": "",
+    "locale_title": "非政府组织阵线",
     "stripped_title": "NGO Front",
     "oracle_text": "NGO Front can be advanced.\n[trash],<strong>1 hosted advancement token</strong>: Gain 5[credit].\n[trash],<strong>2 hosted advancement tokens</strong>: Gain 8[credit].",
     "locale_text": "",
@@ -40422,7 +40422,7 @@
   {
     "codename": "nightdancer",
     "oracle_title": "Nightdancer",
-    "locale_title": "",
+    "locale_title": "夜舞者",
     "stripped_title": "Nightdancer",
     "oracle_text": "[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.",
     "locale_text": "",
@@ -40652,7 +40652,7 @@
   {
     "codename": "no_one_home",
     "oracle_title": "No One Home",
-    "locale_title": "",
+    "locale_title": "家中无人",
     "stripped_title": "No One Home",
     "oracle_text": "[interrupt] → The first time each turn you would take tags or suffer net damage, you may trash this resource to have the Corp trace[0]. If unsuccessful, prevent all tags or all net damage.",
     "locale_text": "",
@@ -40751,7 +40751,7 @@
   {
     "codename": "notoriety",
     "oracle_title": "Notoriety",
-    "locale_title": "",
+    "locale_title": "威名显赫",
     "stripped_title": "Notoriety",
     "oracle_text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAdd Notoriety to your score area as an agenda worth 1 agenda point.",
     "locale_text": "",
@@ -40916,7 +40916,7 @@
   {
     "codename": "nyashia",
     "oracle_title": "Nyashia",
-    "locale_title": "",
+    "locale_title": "尼亚夏",
     "stripped_title": "Nyashia",
     "oracle_text": "When you install this program, place 3 power counters on it.\nWhenever you breach R&D, you may remove 1 hosted power counter to access 1 additional card.",
     "locale_text": "",
@@ -40980,7 +40980,7 @@
   {
     "codename": "o_shortage",
     "oracle_title": "O₂ Shortage",
-    "locale_title": "",
+    "locale_title": "氧气匮乏",
     "stripped_title": "O Shortage",
     "oracle_text": "The Runner may trash 1 card from the grip at random. If they do not, gain [click][click].",
     "locale_text": "",
@@ -41275,7 +41275,7 @@
   {
     "codename": "oduduwa",
     "oracle_title": "Oduduwa",
-    "locale_title": "",
+    "locale_title": "奥杜杜瓦",
     "stripped_title": "Oduduwa",
     "oracle_text": "When the Runner encounters Oduduwa, place 1 advancement token on it. You may place X advancement tokens on another piece of ice. X is the number of advancement tokens on Oduduwa.\n[subroutine] End the run.\n[subroutine] End the run.",
     "locale_text": "",
@@ -41405,7 +41405,7 @@
   {
     "codename": "office_supplies",
     "oracle_title": "Office Supplies",
-    "locale_title": "",
+    "locale_title": "办公用品",
     "stripped_title": "Office Supplies",
     "oracle_text": "Reduce the play cost of Office Supplies by 1 for each [link] you have.\nGain 4[credit] or draw 4 cards.",
     "locale_text": "",
@@ -41436,7 +41436,7 @@
   {
     "codename": "officer_frank",
     "oracle_title": "Officer Frank",
-    "locale_title": "",
+    "locale_title": "弗兰克警官",
     "stripped_title": "Officer Frank",
     "oracle_text": "[trash], 1[credit]: The Corp trashes 2 cards from HQ at random. Use this ability only if you suffered meat damage this turn.",
     "locale_text": "",
@@ -41701,7 +41701,7 @@
   {
     "codename": "open_forum",
     "oracle_title": "Open Forum",
-    "locale_title": "",
+    "locale_title": "开放论坛",
     "stripped_title": "Open Forum",
     "oracle_text": "After your mandatory draw, reveal the top card of R&D and add it to HQ. Add 1 card from HQ to the top of R&D.",
     "locale_text": "",
@@ -42032,7 +42032,7 @@
   {
     "codename": "otoroshi",
     "oracle_title": "Otoroshi",
-    "locale_title": "",
+    "locale_title": "惊怪",
     "stripped_title": "Otoroshi",
     "oracle_text": "[subroutine] You may place up to 3 advancement counters on 1 card installed in the root of a remote server. If you do, the Runner accesses that card unless they pay 3[credit].",
     "locale_text": "",
@@ -42198,7 +42198,7 @@
   {
     "codename": "overseer_matrix",
     "oracle_title": "Overseer Matrix",
-    "locale_title": "",
+    "locale_title": "监督矩阵",
     "stripped_title": "Overseer Matrix",
     "oracle_text": "Persistent → Whenever the Runner trashes a card from this server or its root, you may pay 1[credit] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "locale_text": "",
@@ -42229,7 +42229,7 @@
   {
     "codename": "oversight_ai",
     "oracle_title": "Oversight AI",
-    "locale_title": "",
+    "locale_title": "监督型人工智能",
     "stripped_title": "Oversight AI",
     "oracle_text": "Rez a piece of ice, ignoring all costs, and install Oversight AI on that ice as a hosted condition counter with the text \"Trash host ice if all its subroutines are broken during a single encounter.\"",
     "locale_text": "",
@@ -42262,7 +42262,7 @@
   {
     "codename": "owl",
     "oracle_title": "Owl",
-    "locale_title": "",
+    "locale_title": "猫头鹰",
     "stripped_title": "Owl",
     "oracle_text": "[subroutine] Add 1 installed program to the top of the stack.",
     "locale_text": "",
@@ -42395,7 +42395,7 @@
   {
     "codename": "pad_tap",
     "oracle_title": "PAD Tap",
-    "locale_title": "",
+    "locale_title": "面板分接",
     "stripped_title": "PAD Tap",
     "oracle_text": "The first time the Corp gains credits through a card ability each turn, you may gain 1[credit].\n[click], 3[credit]: Trash PAD Tap. Only the Corp can use this ability.",
     "locale_text": "",
@@ -42782,7 +42782,7 @@
   {
     "codename": "paper_trail",
     "oracle_title": "Paper Trail",
-    "locale_title": "",
+    "locale_title": "文件线索",
     "stripped_title": "Paper Trail",
     "oracle_text": "When you score Paper Trail, Trace[6]. If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
     "locale_text": "",
@@ -42915,7 +42915,7 @@
   {
     "codename": "paragon",
     "oracle_title": "Paragon",
-    "locale_title": "",
+    "locale_title": "典范",
     "stripped_title": "Paragon",
     "oracle_text": "+1[mu]\nThe first time you make a successful run each turn, you may gain 1[credit] and look at the top card of your stack. If you do, you may add that card to the bottom of your stack.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -42948,7 +42948,7 @@
   {
     "codename": "parasite",
     "oracle_title": "Parasite",
-    "locale_title": "",
+    "locale_title": "寄生虫",
     "stripped_title": "Parasite",
     "oracle_text": "Install only on a rezzed piece of ice.\nWhen your turn begins, place 1 virus counter on this program.\nHost ice gets -1 strength for each hosted virus counter.\nWhen the strength of host ice is 0 or less, trash it.",
     "locale_text": "",
@@ -43080,7 +43080,7 @@
   {
     "codename": "patchwork",
     "oracle_title": "Patchwork",
-    "locale_title": "",
+    "locale_title": "补丁",
     "stripped_title": "Patchwork",
     "oracle_text": "+1[mu]\n[interrupt], once per turn → When you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2[credit] less.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -43281,7 +43281,7 @@
   {
     "codename": "peacock",
     "oracle_title": "Peacock",
-    "locale_title": "",
+    "locale_title": "孔雀",
     "stripped_title": "Peacock",
     "oracle_text": "Interface → <strong>2[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
     "locale_text": "",
@@ -43346,7 +43346,7 @@
   {
     "codename": "peeping_tom",
     "oracle_title": "Peeping Tom",
-    "locale_title": "",
+    "locale_title": "偷窥者汤姆",
     "stripped_title": "Peeping Tom",
     "oracle_text": "When the Runner encounters this ice, choose a card type, then reveal all cards in the grip. For the remainder of this run, this ice gains \"[subroutine] End the run unless the Runner takes 1 tag.\" for each revealed card of the chosen type.",
     "locale_text": "",
@@ -43681,7 +43681,7 @@
   {
     "codename": "personalized_portal",
     "oracle_title": "Personalized Portal",
-    "locale_title": "",
+    "locale_title": "个性化门户",
     "stripped_title": "Personalized Portal",
     "oracle_text": "When your turn begins, the Runner draws 1 card. You may gain 1[credit] for every 2 cards in the grip.",
     "locale_text": "",
@@ -43811,7 +43811,7 @@
   {
     "codename": "pheromones",
     "oracle_title": "Pheromones",
-    "locale_title": "",
+    "locale_title": "信息素",
     "stripped_title": "Pheromones",
     "oracle_text": "X[recurring-credit]\nUse these credits during runs on HQ. X is the number of virus counters on Pheromones.\nWhenever you make a successful run on HQ, place 1 virus counter on Pheromones.",
     "locale_text": "",
@@ -43844,7 +43844,7 @@
   {
     "codename": "philotic_entanglement",
     "oracle_title": "Philotic Entanglement",
-    "locale_title": "",
+    "locale_title": "核心微粒纠缠技术",
     "stripped_title": "Philotic Entanglement",
     "oracle_text": "When you score Philotic Entanglement, do 1 net damage for each agenda in the Runner's score area.\nLimit 1 Philotic Entanglement per deck.",
     "locale_text": "",
@@ -44045,7 +44045,7 @@
   {
     "codename": "pipeline",
     "oracle_title": "Pipeline",
-    "locale_title": "",
+    "locale_title": "管线",
     "stripped_title": "Pipeline",
     "oracle_text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +1 strength for the remainder of this run.",
     "locale_text": "",
@@ -44147,7 +44147,7 @@
   {
     "codename": "plague",
     "oracle_title": "Plague",
-    "locale_title": "",
+    "locale_title": "瘟疫",
     "stripped_title": "Plague",
     "oracle_text": "When you install Plague, choose a server.\nWhenever you make a successful run on the chosen server, you may place 2 virus counters on Plague.",
     "locale_text": "",
@@ -44477,7 +44477,7 @@
   {
     "codename": "polyhistor",
     "oracle_title": "Polyhistor",
-    "locale_title": "",
+    "locale_title": "博学者",
     "stripped_title": "Polyhistor",
     "oracle_text": "+1[mu], +1[link]\nThe first time each turn you pass all of the ice protecting HQ, you may draw 1 card to force the Corp to draw 1 card.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -45230,7 +45230,7 @@
   {
     "codename": "priority_construction",
     "oracle_title": "Priority Construction",
-    "locale_title": "",
+    "locale_title": "优先建设",
     "stripped_title": "Priority Construction",
     "oracle_text": "As an additional cost to play this operation, spend [click].\nInstall a piece of ice from HQ protecting a remote server (ignoring all costs). Place 3 advancement tokens on that ice.",
     "locale_text": "",
@@ -45263,7 +45263,7 @@
   {
     "codename": "priority_requisition",
     "oracle_title": "Priority Requisition",
-    "locale_title": "",
+    "locale_title": "优先征用",
     "stripped_title": "Priority Requisition",
     "oracle_text": "When you score Priority Requisition, you may rez a piece of ice ignoring all costs.",
     "locale_text": "",
@@ -45362,7 +45362,7 @@
   {
     "codename": "private_security_force",
     "oracle_title": "Private Security Force",
-    "locale_title": "",
+    "locale_title": "私人防卫军",
     "stripped_title": "Private Security Force",
     "oracle_text": "If the Runner is tagged, Private Security Force gains: \"[click]: Do 1 meat damage.\"",
     "locale_text": "",
@@ -45428,7 +45428,7 @@
   {
     "codename": "process_automation",
     "oracle_title": "Process Automation",
-    "locale_title": "",
+    "locale_title": "流程自动化",
     "stripped_title": "Process Automation",
     "oracle_text": "Gain 2[credit] and draw 1 card.",
     "locale_text": "",
@@ -45459,7 +45459,7 @@
   {
     "codename": "product_placement",
     "oracle_title": "Product Placement",
-    "locale_title": "",
+    "locale_title": "植入式广告",
     "stripped_title": "Product Placement",
     "oracle_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, gain 2[credit].",
     "locale_text": "",
@@ -45655,7 +45655,7 @@
   {
     "codename": "project_ares",
     "oracle_title": "Project Ares",
-    "locale_title": "",
+    "locale_title": "阿瑞斯计划",
     "stripped_title": "Project Ares",
     "oracle_text": "When you score this agenda, the Runner trashes 1 of their installed cards for each hosted advancement counter past 4. If the Runner trashes at least 1 card this way, take 1 bad publicity.",
     "locale_text": "",
@@ -45787,7 +45787,7 @@
   {
     "codename": "project_junebug",
     "oracle_title": "Project Junebug",
-    "locale_title": "",
+    "locale_title": "金甲虫计划",
     "stripped_title": "Project Junebug",
     "oracle_text": "Project Junebug can be advanced.\nIf you pay 1[credit] when the Runner accesses Project Junebug, do 2 net damage for each advancement token on Project Junebug.",
     "locale_text": "",
@@ -46053,7 +46053,7 @@
   {
     "codename": "psych_mike",
     "oracle_title": "Psych Mike",
-    "locale_title": "",
+    "locale_title": "神通迈克",
     "stripped_title": "Psych Mike",
     "oracle_text": "The first time each turn a successful run on R&D ends, you may gain 1[credit] for each time you accessed a card in R&D during that run.",
     "locale_text": "",
@@ -46223,9 +46223,7 @@
     "locale_text": "当你的回合开始时，获得1[credit]。\n威胁2 → 当潜袭者销毁<em>（已激活的）</em>本资产时，给予其1枚锁定标记。",
     "stripped_text": "When your turn begins, gain 1 credit. Threat 2 -> When the Runner trashes this asset (while it is rezzed), give them 1 tag.",
     "type_codename": "asset",
-    "subtype_codenames": [
-      "advertisement"
-    ],
+    "subtype_codenames": [],
     "side_codename": "corp",
     "faction_codename": "nbn",
     "is_unique": false,
@@ -46283,7 +46281,7 @@
   {
     "codename": "public_support",
     "oracle_title": "Public Support",
-    "locale_title": "",
+    "locale_title": "公众支持",
     "stripped_title": "Public Support",
     "oracle_text": "Place 3 power counters on Public Support when it is rezzed. When there are no power counters left on Public Support, add it to your score area as an agenda worth 1 agenda point.\nWhen your turn begins, remove 1 power counter from Public Support.",
     "locale_text": "",
@@ -46409,7 +46407,7 @@
   {
     "codename": "puffer",
     "oracle_title": "Puffer",
-    "locale_title": "",
+    "locale_title": "河豚",
     "stripped_title": "Puffer",
     "oracle_text": "This program gets +1 strength and costs +1[mu] for each hosted power counter.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +1 strength.\n<strong>[click]:</strong> Place 1 power counter on this program or remove 1 hosted power counter.",
     "locale_text": "",
@@ -46835,7 +46833,7 @@
   {
     "codename": "queens_gambit",
     "oracle_title": "Queen's Gambit",
-    "locale_title": "",
+    "locale_title": "皇后开局",
     "stripped_title": "Queen's Gambit",
     "oracle_text": "As an additional cost to play this event, spend [click].\nPlace up to 3 advancement counters on 1 unrezzed card in the root of a remote server. Gain 2[credit] for each counter placed this way. You cannot access that card for the remainder of the turn.",
     "locale_text": "",
@@ -46868,7 +46866,7 @@
   {
     "codename": "quest_completed",
     "oracle_title": "Quest Completed",
-    "locale_title": "",
+    "locale_title": "任务达成",
     "stripped_title": "Quest Completed",
     "oracle_text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nAccess 1 installed card (non-ice).",
     "locale_text": "",
@@ -46965,7 +46963,7 @@
   {
     "codename": "r_d_interface",
     "oracle_title": "R&D Interface",
-    "locale_title": "",
+    "locale_title": "研发中心接口",
     "stripped_title": "R&D Interface",
     "oracle_text": "Whenever you breach R&D, access 1 additional card.",
     "locale_text": "",
@@ -46996,7 +46994,7 @@
   {
     "codename": "rabbit_hole",
     "oracle_title": "Rabbit Hole",
-    "locale_title": "",
+    "locale_title": "兔穴",
     "stripped_title": "Rabbit Hole",
     "oracle_text": "+1[link]\nWhen Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
     "locale_text": "",
@@ -47197,7 +47195,7 @@
   {
     "codename": "rashida_jaheem",
     "oracle_title": "Rashida Jaheem",
-    "locale_title": "",
+    "locale_title": "拉什达·哲希姆",
     "stripped_title": "Rashida Jaheem",
     "oracle_text": "When your turn begins, you may trash Rashida Jaheem to gain 3[credit] and draw 3 cards.",
     "locale_text": "",
@@ -47425,7 +47423,7 @@
   {
     "codename": "reboot",
     "oracle_title": "Reboot",
-    "locale_title": "",
+    "locale_title": "重启",
     "stripped_title": "Reboot",
     "oracle_text": "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown.\nRemove this event from the game.",
     "locale_text": "",
@@ -47491,7 +47489,7 @@
   {
     "codename": "reclaim",
     "oracle_title": "Reclaim",
-    "locale_title": "",
+    "locale_title": "回收",
     "stripped_title": "Reclaim",
     "oracle_text": "[click], [trash], <strong>trash a card from your grip</strong>: Install a program, piece of hardware, or <strong>virtual</strong> resource from your heap, paying its install cost.",
     "locale_text": "",
@@ -47619,7 +47617,7 @@
   {
     "codename": "reconstruction_contract",
     "oracle_title": "Reconstruction Contract",
-    "locale_title": "",
+    "locale_title": "重建合约",
     "stripped_title": "Reconstruction Contract",
     "oracle_text": "Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract.\n[trash]: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced.",
     "locale_text": "",
@@ -47712,7 +47710,7 @@
   {
     "codename": "red_herrings",
     "oracle_title": "Red Herrings",
-    "locale_title": "",
+    "locale_title": "红鲱鱼",
     "stripped_title": "Red Herrings",
     "oracle_text": "Persistent → As an additional cost to steal an agenda from this server or its root, the Runner must pay 5[credit]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "locale_text": "",
@@ -48269,7 +48267,7 @@
   {
     "codename": "remote_enforcement",
     "oracle_title": "Remote Enforcement",
-    "locale_title": "",
+    "locale_title": "远程执法",
     "stripped_title": "Remote Enforcement",
     "oracle_text": "When you score Remote Enforcement, you may search R&D for a piece of ice, install it protecting a remote server (paying its install cost), and rez it, ignoring its rez cost, then shuffle R&D.",
     "locale_text": "",
@@ -48532,7 +48530,7 @@
   {
     "codename": "reshape",
     "oracle_title": "Reshape",
-    "locale_title": "",
+    "locale_title": "重塑",
     "stripped_title": "Reshape",
     "oracle_text": "Swap 2 pieces of unrezzed ice.",
     "locale_text": "",
@@ -48597,7 +48595,7 @@
   {
     "codename": "respirocytes",
     "oracle_title": "Respirocytes",
-    "locale_title": "",
+    "locale_title": "人造红血球",
     "stripped_title": "Respirocytes",
     "oracle_text": "When you install this hardware, suffer 1 meat damage.\nThe first time each turn you have no cards in your grip, draw 1 card and place 1 power counter on this hardware.\nWhen this hardware has 3 or more hosted power counters, trash it.",
     "locale_text": "",
@@ -48630,7 +48628,7 @@
   {
     "codename": "restore",
     "oracle_title": "Restore",
-    "locale_title": "",
+    "locale_title": "恢复",
     "stripped_title": "Restore",
     "oracle_text": "Install and rez 1 card from Archives (paying all costs). Remove all other copies of that card in Archives from the game.",
     "locale_text": "",
@@ -48857,7 +48855,7 @@
   {
     "codename": "reverse_infection",
     "oracle_title": "Reverse Infection",
-    "locale_title": "",
+    "locale_title": "反向感染",
     "stripped_title": "Reverse Infection",
     "oracle_text": "Choose one:<ul><li>Purge virus counters. Trash 1 card from the top of the stack for every 3 virus counters removed.</li><li>Gain 2[credit].</li></ul>",
     "locale_text": "",
@@ -49181,7 +49179,7 @@
   {
     "codename": "riot_suppression",
     "oracle_title": "Riot Suppression",
-    "locale_title": "",
+    "locale_title": "镇压暴乱",
     "stripped_title": "Riot Suppression",
     "oracle_text": "Play only if the Runner trashed a Corp card during their last turn.\nThe Runner may suffer 1 core damage. If they do not, they get -3 allotted [click] for their next turn.\nRemove this operation from the game.",
     "locale_text": "",
@@ -49215,7 +49213,7 @@
   {
     "codename": "rip_deal",
     "oracle_title": "Rip Deal",
-    "locale_title": "",
+    "locale_title": "掉包交易",
     "stripped_title": "Rip Deal",
     "oracle_text": "Run HQ. If successful, when you determine the number of cards in HQ you are allowed to access during this run's breach of HQ, you may add that many cards from your heap to your grip. If you do, you cannot access any cards in HQ during this breach. <em>(You can still access cards in the root of HQ.)</em>\nWhen the run ends, remove this event from the game.",
     "locale_text": "",
@@ -49313,7 +49311,7 @@
   {
     "codename": "rng_key",
     "oracle_title": "RNG Key",
-    "locale_title": "",
+    "locale_title": "RNG密钥",
     "stripped_title": "RNG Key",
     "oracle_text": "The first time you make a successful run on HQ or R&D each turn, you may name a number. If you do, reveal the next card that you access this run. If it has a rez cost, play cost, or advancement requirement equal to the named number, either gain 3[credit] or draw 2 cards.",
     "locale_text": "",
@@ -49344,7 +49342,7 @@
   {
     "codename": "rogue_trading",
     "oracle_title": "Rogue Trading",
-    "locale_title": "",
+    "locale_title": "流氓交易",
     "stripped_title": "Rogue Trading",
     "oracle_text": "Place 18[credit] from the bank on Rogue Trading when it is installed. When there are no credits left on Rogue Trading, trash it.\n[click], [click]: Take 6[credit] from Rogue Trading and take 1 tag.",
     "locale_text": "",
@@ -49377,7 +49375,7 @@
   {
     "codename": "rolling_brownout",
     "oracle_title": "Rolling Brownout",
-    "locale_title": "",
+    "locale_title": "轮番限电",
     "stripped_title": "Rolling Brownout",
     "oracle_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe play cost of each operation and event is increased by 1.\nThe first time the Runner plays an event each turn, gain 1[credit].",
     "locale_text": "",
@@ -49543,7 +49541,7 @@
   {
     "codename": "rosetta_2_0",
     "oracle_title": "Rosetta 2.0",
-    "locale_title": "",
+    "locale_title": "罗塞塔2.0",
     "stripped_title": "Rosetta 2.0",
     "oracle_text": "[click], <strong>remove an installed program from the game</strong>: Search your stack for a non-<strong>virus</strong> program, shuffle your stack, then install that program, lowering the install cost by the cost of the program removed from the game.",
     "locale_text": "",
@@ -49643,7 +49641,7 @@
   {
     "codename": "rover_algorithm",
     "oracle_title": "Rover Algorithm",
-    "locale_title": "",
+    "locale_title": "漫游者算法",
     "stripped_title": "Rover Algorithm",
     "oracle_text": "Install Rover Algorithm on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +1 strength for each power counter on Rover Algorithm. Whenever the Runner passes host ice, place 1 power counter on Rover Algorithm.\"",
     "locale_text": "",
@@ -49707,7 +49705,7 @@
   {
     "codename": "rubicon_switch",
     "oracle_title": "Rubicon Switch",
-    "locale_title": "",
+    "locale_title": "卢比孔交换机",
     "stripped_title": "Rubicon Switch",
     "oracle_text": "Once per turn → [click], <strong>X[credit]:</strong> Derez 1 piece of ice with a printed rez cost of X[credit] that was rezzed this turn.",
     "locale_text": "",
@@ -49804,7 +49802,7 @@
   {
     "codename": "run_amok",
     "oracle_title": "Run Amok",
-    "locale_title": "",
+    "locale_title": "横冲直撞",
     "stripped_title": "Run Amok",
     "oracle_text": "Make a run. When the run ends, trash 1 piece of ice that was rezzed during this run.",
     "locale_text": "",
@@ -50068,7 +50066,7 @@
   {
     "codename": "sacrifice",
     "oracle_title": "Sacrifice",
-    "locale_title": "",
+    "locale_title": "舍己",
     "stripped_title": "Sacrifice",
     "oracle_text": "As an additional cost to play this operation, forfeit an agenda.\nRemove 1 bad publicity per agenda point that the forfeited agenda was worth. Gain 1[credit] for each bad publicity removed.",
     "locale_text": "",
@@ -50130,7 +50128,7 @@
   {
     "codename": "sacrificial_construct",
     "oracle_title": "Sacrificial Construct",
-    "locale_title": "",
+    "locale_title": "自毁结构体",
     "stripped_title": "Sacrificial Construct",
     "oracle_text": "[interrupt] → [trash]<strong>:</strong> Prevent a player from trashing 1 installed program or piece of hardware.",
     "locale_text": "",
@@ -50163,7 +50161,7 @@
   {
     "codename": "sadaka",
     "oracle_title": "Sadaka",
-    "locale_title": "",
+    "locale_title": "施济",
     "stripped_title": "Sadaka",
     "oracle_text": "[subroutine] Look at the top 3 cards of R&D and either arrange them in any order or shuffle R&D. You may draw 1 card.\n[subroutine] You may trash 1 card in HQ. If you do, trash 1 resource. Trash Sadaka.",
     "locale_text": "",
@@ -50537,7 +50535,7 @@
   {
     "codename": "salvaged_vanadis_armory",
     "oracle_title": "Salvaged Vanadis Armory",
-    "locale_title": "",
+    "locale_title": "凡娜迪丝武器厂残迹",
     "stripped_title": "Salvaged Vanadis Armory",
     "oracle_text": "<strong>[trash]:</strong> The Corp trashes the top X cards of R&D. X is equal to the amount of damage you have suffered this turn. Use this ability only during the next paid ability window after suffering any amount of damage.",
     "locale_text": "",
@@ -50634,7 +50632,7 @@
   {
     "codename": "sand_storm",
     "oracle_title": "Sand Storm",
-    "locale_title": "",
+    "locale_title": "沙暴",
     "stripped_title": "Sand Storm",
     "oracle_text": "[subroutine] If this ice is installed, move it to the outermost position protecting another server. <em>(The run continues from this new position.)</em> Trash this ice.",
     "locale_text": "",
@@ -50699,7 +50697,7 @@
   {
     "codename": "sandman",
     "oracle_title": "Sandman",
-    "locale_title": "",
+    "locale_title": "沙人",
     "stripped_title": "Sandman",
     "oracle_text": "[subroutine]Add an installed Runner card to the grip.\n[subroutine]Add an installed Runner card to the grip.",
     "locale_text": "",
@@ -50866,7 +50864,7 @@
   {
     "codename": "saraswati_mnemonics_endless_exploration",
     "oracle_title": "Saraswati Mnemonics: Endless Exploration",
-    "locale_title": "",
+    "locale_title": "辩天助忆: 无尽探索",
     "stripped_title": "Saraswati Mnemonics: Endless Exploration",
     "oracle_text": "<strong>[click]</strong>, <strong>1[credit]:</strong> Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins.",
     "locale_text": "",
@@ -50963,7 +50961,7 @@
   {
     "codename": "savant",
     "oracle_title": "Savant",
-    "locale_title": "",
+    "locale_title": "智者",
     "stripped_title": "Savant",
     "oracle_text": "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or 2 <strong>code gate</strong> subroutines.",
     "locale_text": "",
@@ -51192,7 +51190,7 @@
   {
     "codename": "scorched_earth",
     "oracle_title": "Scorched Earth",
-    "locale_title": "",
+    "locale_title": "焦土政策",
     "stripped_title": "Scorched Earth",
     "oracle_text": "Play only if the Runner is tagged.\nDo 4 meat damage.",
     "locale_text": "",
@@ -51358,7 +51356,7 @@
   {
     "codename": "sea_source",
     "oracle_title": "SEA Source",
-    "locale_title": "",
+    "locale_title": "空梯管理局信号源",
     "stripped_title": "SEA Source",
     "oracle_text": "Play only if the Runner made a successful run during their last turn.\nTrace[3]. If successful, give the Runner 1 tag.",
     "locale_text": "",
@@ -51786,7 +51784,7 @@
   {
     "codename": "seidr_laboratories_destiny_defined",
     "oracle_title": "Seidr Laboratories: Destiny Defined",
-    "locale_title": "",
+    "locale_title": "西德尔实验室: 定义命运",
     "stripped_title": "Seidr Laboratories: Destiny Defined",
     "oracle_text": "The first time each turn the Runner loses or spends [click] during a run, you may add 1 card from Archives to the top of R&D.",
     "locale_text": "",
@@ -51916,7 +51914,7 @@
   {
     "codename": "self_growth_program",
     "oracle_title": "Self-Growth Program",
-    "locale_title": "",
+    "locale_title": "自我成长项目",
     "stripped_title": "Self-Growth Program",
     "oracle_text": "Play only if the Runner is tagged.\nAdd 2 installed Runner cards to the grip.",
     "locale_text": "",
@@ -52312,7 +52310,7 @@
   {
     "codename": "severnius_stim_implant",
     "oracle_title": "Severnius Stim Implant",
-    "locale_title": "",
+    "locale_title": "赛维纽斯刺激植入体",
     "stripped_title": "Severnius Stim Implant",
     "oracle_text": "<strong>[click]:</strong> Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed.",
     "locale_text": "",
@@ -52345,7 +52343,7 @@
   {
     "codename": "shadow",
     "oracle_title": "Shadow",
-    "locale_title": "",
+    "locale_title": "影子",
     "stripped_title": "Shadow",
     "oracle_text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trace[3]. If successful, give the Runner 1 tag.",
     "locale_text": "",
@@ -52715,7 +52713,7 @@
   {
     "codename": "shipment_from_kaguya",
     "oracle_title": "Shipment from Kaguya",
-    "locale_title": "",
+    "locale_title": "辉夜港的货物",
     "stripped_title": "Shipment from Kaguya",
     "oracle_text": "Place 1 advancement token on each of up to 2 different installed cards that can be advanced.",
     "locale_text": "",
@@ -52746,7 +52744,7 @@
   {
     "codename": "shipment_from_mirrormorph",
     "oracle_title": "Shipment from MirrorMorph",
-    "locale_title": "",
+    "locale_title": "幻镜所的货物",
     "stripped_title": "Shipment from MirrorMorph",
     "oracle_text": "Install up to 3 cards from HQ (one at a time and paying all install costs).",
     "locale_text": "",
@@ -52810,7 +52808,7 @@
   {
     "codename": "shipment_from_tennin",
     "oracle_title": "Shipment from Tennin",
-    "locale_title": "",
+    "locale_title": "天人院的货物",
     "stripped_title": "Shipment from Tennin",
     "oracle_text": "Play only if the Runner did not make a successful run during their last turn.\nPlace 2 advancement counters on 1 installed card.",
     "locale_text": "",
@@ -53368,7 +53366,7 @@
   {
     "codename": "singularity",
     "oracle_title": "Singularity",
-    "locale_title": "",
+    "locale_title": "奇点",
     "stripped_title": "Singularity",
     "oracle_text": "As an additional cost to play this event, spend [click].\nRun a remote server. If successful, instead of breaching that server, trash all cards installed in the root of that server.",
     "locale_text": "",
@@ -53435,7 +53433,7 @@
   {
     "codename": "siu",
     "oracle_title": "SIU",
-    "locale_title": "",
+    "locale_title": "特调组",
     "stripped_title": "SIU",
     "oracle_text": "When your turn begins, you may trash SIU to Trace[3]. If successful, give the Runner 1 tag.",
     "locale_text": "",
@@ -53601,7 +53599,7 @@
   {
     "codename": "slipstream",
     "oracle_title": "Slipstream",
-    "locale_title": "",
+    "locale_title": "滑流",
     "stripped_title": "Slipstream",
     "oracle_text": "Whenever you pass a rezzed piece of ice, you may trash this resource. If you do, choose 1 piece of ice protecting a central server in the same position as the passed ice. Move to that ice and approach it. You may jack out.",
     "locale_text": "",
@@ -54125,7 +54123,7 @@
   {
     "codename": "spark_agency_worldswide_reach",
     "oracle_title": "Spark Agency: Worldswide Reach",
-    "locale_title": "",
+    "locale_title": "火花广告: 遍及天下",
     "stripped_title": "Spark Agency: Worldswide Reach",
     "oracle_text": "The first time each turn you rez an <strong>advertisement</strong>, the Runner loses 1[credit].",
     "locale_text": "",
@@ -54191,7 +54189,7 @@
   {
     "codename": "spear_phishing",
     "oracle_title": "Spear Phishing",
-    "locale_title": "",
+    "locale_title": "鱼叉式网钓",
     "stripped_title": "Spear Phishing",
     "oracle_text": "Make a run. When you encounter the innermost piece of ice protecting that server, bypass it.",
     "locale_text": "",
@@ -54291,7 +54289,7 @@
   {
     "codename": "special_order",
     "oracle_title": "Special Order",
-    "locale_title": "",
+    "locale_title": "特别订单",
     "stripped_title": "Special Order",
     "oracle_text": "Search your stack for an <strong>icebreaker</strong>, reveal it, and add it to your grip. Shuffle your stack.",
     "locale_text": "",
@@ -54353,7 +54351,7 @@
   {
     "codename": "spiderweb",
     "oracle_title": "Spiderweb",
-    "locale_title": "",
+    "locale_title": "蜘蛛网",
     "stripped_title": "Spiderweb",
     "oracle_text": "[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
     "locale_text": "",
@@ -54454,7 +54452,7 @@
   {
     "codename": "spinal_modem",
     "oracle_title": "Spinal Modem",
-    "locale_title": "",
+    "locale_title": "脊髓调制器",
     "stripped_title": "Spinal Modem",
     "oracle_text": "+1[mu], 2[recurring-credit]\nYou can spend hosted credits to use <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 core damage.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -54587,7 +54585,7 @@
   {
     "codename": "sportsmetal_go_big_or_go_home",
     "oracle_title": "Sportsmetal: Go Big or Go Home",
-    "locale_title": "",
+    "locale_title": "金技体育: 全力以赴",
     "stripped_title": "Sportsmetal: Go Big or Go Home",
     "oracle_text": "Whenever an agenda is scored or stolen, gain 2[credit] or draw 2 cards.",
     "locale_text": "",
@@ -54748,7 +54746,7 @@
   {
     "codename": "ssl_endorsement",
     "oracle_title": "SSL Endorsement",
-    "locale_title": "",
+    "locale_title": "撒南盟的认可",
     "stripped_title": "SSL Endorsement",
     "oracle_text": "When this agenda is scored or stolen, place 9[credit] on it.\nWhen the Corp's turn begins, they may take 3[credit] from this agenda. This ability is active even while this agenda is in the Runner's score area.",
     "locale_text": "",
@@ -54781,7 +54779,7 @@
   {
     "codename": "sso_industries_fueling_innovation",
     "oracle_title": "SSO Industries: Fueling Innovation",
-    "locale_title": "",
+    "locale_title": "撒南实业: 助推创新",
     "stripped_title": "SSO Industries: Fueling Innovation",
     "oracle_text": "When your turn ends, you may choose a piece of ice with no advancement tokens on it. If you do, place 1 advancement token on that piece of ice for each agenda point on all installed faceup agendas.",
     "locale_text": "",
@@ -54814,7 +54812,7 @@
   {
     "codename": "standard_procedure",
     "oracle_title": "Standard Procedure",
-    "locale_title": "",
+    "locale_title": "标准程序",
     "stripped_title": "Standard Procedure",
     "oracle_text": "Play only if the Runner made a successful run during their last turn.\nChoose a card type, then reveal the grip. Gain 2[credit] for each card of the chosen type revealed this way.",
     "locale_text": "",
@@ -54845,7 +54843,7 @@
   {
     "codename": "standoff",
     "oracle_title": "Standoff",
-    "locale_title": "",
+    "locale_title": "对峙",
     "stripped_title": "Standoff",
     "oracle_text": "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5[credit]. Otherwise, you may trash 1 of your installed cards to repeat this process.",
     "locale_text": "",
@@ -55039,9 +55037,9 @@
     "oracle_title": "Stegodon MK IV",
     "locale_title": "剑齿象IV型",
     "stripped_title": "Stegodon MK IV",
-    "oracle_text": "Each run, as long a a piece of ice has been derezzed during that run, each installed <strong>icebreaker</strong> gets –2 strength.\nOnce per turn → When a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1[credit].",
+    "oracle_text": "Each run, as long as a piece of ice has been derezzed during that run, each installed <strong>icebreaker</strong> gets –2 strength.\nOnce per turn → When a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1[credit].",
     "locale_text": "每次潜袭中，只要一层防火墙被关闭过，每个已安装的<strong>破解器</strong>的强度便-2。\n每回合限一次 → 当一次潜袭开始时，你可以关闭1层并非保护当前被攻击服务器的防火墙，以获得1[credit]。",
-    "stripped_text": "Each run, as long a a piece of ice has been derezzed during that run, each installed icebreaker gets -2 strength. Once per turn -> When a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1[credit].",
+    "stripped_text": "Each run, as long as a piece of ice has been derezzed during that run, each installed icebreaker gets -2 strength. Once per turn -> When a run begins, you may derez 1 piece of ice not protecting the attacked server to gain 1[credit].",
     "type_codename": "agenda",
     "subtype_codenames": [
       "security"
@@ -55136,7 +55134,7 @@
   {
     "codename": "stimhack",
     "oracle_title": "Stimhack",
-    "locale_title": "",
+    "locale_title": "狂热式入侵",
     "stripped_title": "Stimhack",
     "oracle_text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented.",
     "locale_text": "",
@@ -55466,7 +55464,7 @@
   {
     "codename": "strongbox",
     "oracle_title": "Strongbox",
-    "locale_title": "",
+    "locale_title": "保险箱",
     "stripped_title": "Strongbox",
     "oracle_text": "Persistent → As an additional cost to steal an agenda from this server or its root, the Runner must spend [click]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "locale_text": "",
@@ -55661,7 +55659,7 @@
   {
     "codename": "success",
     "oracle_title": "Success",
-    "locale_title": "",
+    "locale_title": "求胜",
     "stripped_title": "Success",
     "oracle_text": "As an additional cost to play this operation, forfeit an agenda and spend [click][click].\nAdvance a card X times. X equals the advancement requirement of the agenda just forfeited.",
     "locale_text": "",
@@ -55727,7 +55725,7 @@
   {
     "codename": "successful_field_test",
     "oracle_title": "Successful Field Test",
-    "locale_title": "",
+    "locale_title": "成功实测",
     "stripped_title": "Successful Field Test",
     "oracle_text": "When you score Successful Field Test, install any number of cards from HQ, ignoring all costs.",
     "locale_text": "",
@@ -55793,7 +55791,7 @@
   {
     "codename": "sundew",
     "oracle_title": "Sundew",
-    "locale_title": "",
+    "locale_title": "茅膏菜",
     "stripped_title": "Sundew",
     "oracle_text": "The first time the Runner spends 1 or more [click] during their turn, gain 2[credit]. If those [click] were spent to take an action, the first time during that action a run on this server begins, pay 2[credit].",
     "locale_text": "",
@@ -56276,7 +56274,7 @@
   {
     "codename": "surveyor",
     "oracle_title": "Surveyor",
-    "locale_title": "",
+    "locale_title": "鉴定者",
     "stripped_title": "Surveyor",
     "oracle_text": "X is twice the number of ice protecting this server.\n[subroutine]Trace[X]. If successful, give the Runner 2 tags.\n[subroutine]Trace[X]. If successful, end the run.",
     "locale_text": "",
@@ -56412,7 +56410,7 @@
   {
     "codename": "sweeps_week",
     "oracle_title": "Sweeps Week",
-    "locale_title": "",
+    "locale_title": "收视黄金周",
     "stripped_title": "Sweeps Week",
     "oracle_text": "Gain 1[credit] for each card in the Runner's grip.",
     "locale_text": "",
@@ -56613,7 +56611,7 @@
   {
     "codename": "syn_attack",
     "oracle_title": "SYN Attack",
-    "locale_title": "",
+    "locale_title": "SYN攻击",
     "stripped_title": "SYN Attack",
     "oracle_text": "As an additional cost to play this event, spend [click].\nThe Corp must either discard 2 cards or draw 4 cards.",
     "locale_text": "",
@@ -56909,7 +56907,7 @@
   {
     "codename": "system_seizure",
     "oracle_title": "System Seizure",
-    "locale_title": "",
+    "locale_title": "系统遇袭",
     "stripped_title": "System Seizure",
     "oracle_text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] → The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run <em>(instead of any shorter duration)</em>.\"",
     "locale_text": "",
@@ -56975,7 +56973,7 @@
   {
     "codename": "takobi",
     "oracle_title": "Takobi",
-    "locale_title": "",
+    "locale_title": "塔科匕",
     "stripped_title": "Takobi",
     "oracle_text": "Whenever you fully break a piece of ice, you may place 1 power counter on this program.\n<strong>2 hosted power counters:</strong> Choose 1 installed non-<strong>AI</strong> <strong>icebreaker</strong>. That <strong>icebreaker</strong> gets +3 strength for the remainder of the current encounter.",
     "locale_text": "",
@@ -57072,7 +57070,7 @@
   {
     "codename": "tapestry",
     "oracle_title": "Tapestry",
-    "locale_title": "",
+    "locale_title": "织锦",
     "stripped_title": "Tapestry",
     "oracle_text": "[subroutine] The Runner loses [click], if able.\n[subroutine] The Corp may draw 1 card.\n[subroutine] The Corp may add 1 card from HQ to the top of R&D.",
     "locale_text": "",
@@ -57364,7 +57362,7 @@
   {
     "codename": "technoco",
     "oracle_title": "TechnoCo",
-    "locale_title": "",
+    "locale_title": "科企",
     "stripped_title": "TechnoCo",
     "oracle_text": "The install cost of each program, piece of hardware, and <strong>virtual</strong> resource is increased by 1.\nWhenever the Runner installs a program, piece of hardware, or <strong>virtual</strong> resource, you may gain 1[credit].",
     "locale_text": "",
@@ -57464,7 +57462,7 @@
   {
     "codename": "tempus",
     "oracle_title": "Tempus",
-    "locale_title": "",
+    "locale_title": "光阴",
     "stripped_title": "Tempus",
     "oracle_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, Trace[3]. If successful, the Runner must lose [click][click] or suffer 1 core damage.",
     "locale_text": "",
@@ -57658,7 +57656,7 @@
   {
     "codename": "tgtbt",
     "oracle_title": "TGTBT",
-    "locale_title": "",
+    "locale_title": "免费的午餐",
     "stripped_title": "TGTBT",
     "oracle_text": "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda, give them 1 tag.",
     "locale_text": "",
@@ -57986,7 +57984,7 @@
   {
     "codename": "the_cleaners",
     "oracle_title": "The Cleaners",
-    "locale_title": "",
+    "locale_title": "清除者",
     "stripped_title": "The Cleaners",
     "oracle_text": "[interrupt] → Whenever you would do meat damage, increase that damage by 1.",
     "locale_text": "",
@@ -58454,7 +58452,7 @@
   {
     "codename": "the_outfit_family_owned_and_operated",
     "oracle_title": "The Outfit: Family Owned and Operated",
-    "locale_title": "",
+    "locale_title": "芝路组织: 家族生意",
     "stripped_title": "The Outfit: Family Owned and Operated",
     "oracle_text": "Gain 3[credit] whenever you take at least 1 bad publicity.",
     "locale_text": "",
@@ -58487,7 +58485,7 @@
   {
     "codename": "the_personal_touch",
     "oracle_title": "The Personal Touch",
-    "locale_title": "",
+    "locale_title": "个性化定制",
     "stripped_title": "The Personal Touch",
     "oracle_text": "Install The Personal Touch only on an <strong>icebreaker.</strong>\nHost <strong>icebreaker</strong> has +1 strength.",
     "locale_text": "",
@@ -58681,7 +58679,7 @@
   {
     "codename": "the_shadow_net",
     "oracle_title": "The Shadow Net",
-    "locale_title": "",
+    "locale_title": "暗网",
     "stripped_title": "The Shadow Net",
     "oracle_text": "[click]<strong>, forfeit an agenda:</strong> Play an event from your heap, ignoring all costs.",
     "locale_text": "",
@@ -59075,7 +59073,7 @@
   {
     "codename": "thimblerig",
     "oracle_title": "Thimblerig",
-    "locale_title": "",
+    "locale_title": "隐豆戏法",
     "stripped_title": "Thimblerig",
     "oracle_text": "When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice.\n[subroutine] End the run.",
     "locale_text": "",
@@ -59175,7 +59173,7 @@
   {
     "codename": "threat_assessment",
     "oracle_title": "Threat Assessment",
-    "locale_title": "",
+    "locale_title": "威胁评估",
     "stripped_title": "Threat Assessment",
     "oracle_text": "Play only if the Runner trashed a Corp card during their last turn and the Runner has at least 1 installed card.\nChoose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack.\nRemove this operation from the game.",
     "locale_text": "",
@@ -59209,7 +59207,7 @@
   {
     "codename": "threat_level_alpha",
     "oracle_title": "Threat Level Alpha",
-    "locale_title": "",
+    "locale_title": "阿尔法级威胁",
     "stripped_title": "Threat Level Alpha",
     "oracle_text": "As an additional cost to play this operation, spend [click].\nTrace[1]. If successful, give the Runner 1 tag for each tag they have or, if the Runner has no tags, give them 1 tag.",
     "locale_text": "",
@@ -59308,7 +59306,7 @@
   {
     "codename": "thunder_art_gallery",
     "oracle_title": "Thunder Art Gallery",
-    "locale_title": "",
+    "locale_title": "雷鸣画廊",
     "stripped_title": "Thunder Art Gallery",
     "oracle_text": "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1.",
     "locale_text": "",
@@ -59474,7 +59472,7 @@
   {
     "codename": "tinkering",
     "oracle_title": "Tinkering",
-    "locale_title": "",
+    "locale_title": "校正",
     "stripped_title": "Tinkering",
     "oracle_text": "Choose a piece of ice. That ice gains <strong>sentry</strong>, <strong>code gate</strong>, and <strong>barrier</strong> until the end of the turn.",
     "locale_text": "",
@@ -59607,7 +59605,7 @@
   {
     "codename": "tithonium",
     "oracle_title": "Tithonium",
-    "locale_title": "",
+    "locale_title": "提托努利林",
     "stripped_title": "Tithonium",
     "oracle_text": "You may forfeit an agenda to rez Tithonium instead of paying its rez cost.\nTithonium cannot host cards.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 resource and end the run.",
     "locale_text": "",
@@ -59773,7 +59771,7 @@
   {
     "codename": "too_big_to_fail",
     "oracle_title": "Too Big to Fail",
-    "locale_title": "",
+    "locale_title": "大而不倒",
     "stripped_title": "Too Big to Fail",
     "oracle_text": "Play only if you have fewer than 10[credit].\nGain 7[credit] and take 1 bad publicity.",
     "locale_text": "",
@@ -60163,7 +60161,7 @@
   {
     "codename": "traffic_analyzer",
     "oracle_title": "Traffic Analyzer",
-    "locale_title": "",
+    "locale_title": "流量分析",
     "stripped_title": "Traffic Analyzer",
     "oracle_text": "Whenever you rez a piece of ice protecting this server, Trace[2]. If successful, the Corp gains 1[credit].",
     "locale_text": "",
@@ -60327,7 +60325,7 @@
   {
     "codename": "transparency_initiative",
     "oracle_title": "Transparency Initiative",
-    "locale_title": "",
+    "locale_title": "透明化新倡议",
     "stripped_title": "Transparency Initiative",
     "oracle_text": "Turn an agenda faceup and install Transparency Initiative on that agenda as a hosted condition counter with the text \"Host agenda gains <strong>public</strong>. Whenever you advance host agenda, gain 1[credit].\"",
     "locale_text": "",
@@ -60597,7 +60595,7 @@
     "locale_title": "支流",
     "stripped_title": "Tributary",
     "oracle_text": "The first time each turn a run begins, you may move this ice to the outermost position protecting the attacked server. <em>(The Runner will approach this ice.)</em>\n[subroutine] You may draw 1 card. You may install 1 piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] Each piece of ice gets +2 strength for the remainder of this run.",
-    "locale_text": "每回合第一次潜袭开始时，你可以将本防火墙转移到保护被攻击的服务器的最外侧位置。<em>（潜袭者将接驳本防火墙。）</em>\r\n[subroutine] 你可以抽1张卡牌。你可以从总部安装1层防火墙保护另一台服务器，忽略所有的费用。\r\n[subroutine] 本次潜袭的剩余时间内，每层防火墙的强度+2。",
+    "locale_text": "每回合第一次潜袭开始时，你可以将本防火墙转移到保护被攻击的服务器的最外侧位置。<em>（潜袭者将接驳本防火墙。）</em>\n[subroutine] 你可以抽1张卡牌。你可以从总部安装1层防火墙保护另一台服务器，忽略所有的费用。\n[subroutine] 本次潜袭的剩余时间内，每层防火墙的强度+2。",
     "stripped_text": "The first time each turn a run begins, you may move this ice to the outermost position protecting the attacked server. (The Runner will approach this ice.) Subroutine You may draw 1 card. You may install 1 piece of ice from HQ protecting another server, ignoring all costs. Subroutine Each piece of ice gets +2 strength for the remainder of this run.",
     "type_codename": "ice",
     "subtype_codenames": [
@@ -60790,7 +60788,7 @@
   {
     "codename": "trojan_horse",
     "oracle_title": "Trojan Horse",
-    "locale_title": "",
+    "locale_title": "特洛伊木马",
     "stripped_title": "Trojan Horse",
     "oracle_text": "Play only if the Runner accessed a card during their last turn.\nTrace[4]. If successful, trash 1 installed program with an install cost of X or less, where X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
     "locale_text": "",
@@ -60920,7 +60918,7 @@
   {
     "codename": "trypano",
     "oracle_title": "Trypano",
-    "locale_title": "",
+    "locale_title": "锥虫",
     "stripped_title": "Trypano",
     "oracle_text": "Install only on a piece of ice.\nWhen your turn begins, you may place 1 virus counter on this program.\nWhen there are 5 or more hosted virus counters, trash host ice.",
     "locale_text": "",
@@ -60987,7 +60985,7 @@
   {
     "codename": "tsurugi",
     "oracle_title": "Tsurugi",
-    "locale_title": "",
+    "locale_title": "神剑",
     "stripped_title": "Tsurugi",
     "oracle_text": "[subroutine] End the run unless the Corp pays 1[credit].\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
     "locale_text": "",
@@ -61086,7 +61084,7 @@
   {
     "codename": "turing",
     "oracle_title": "Turing",
-    "locale_title": "",
+    "locale_title": "图灵",
     "stripped_title": "Turing",
     "oracle_text": "Turing has +3 strength while protecting a remote server.\nThe Runner cannot use <strong>AI</strong> programs to break subroutines on Turing.\n[subroutine] End the run unless the Runner spends [click][click][click].",
     "locale_text": "",
@@ -61186,7 +61184,7 @@
   {
     "codename": "turtlebacks",
     "oracle_title": "Turtlebacks",
-    "locale_title": "",
+    "locale_title": "龟甲",
     "stripped_title": "Turtlebacks",
     "oracle_text": "Gain 1[credit] whenever you create a server.",
     "locale_text": "",
@@ -61219,7 +61217,7 @@
   {
     "codename": "tycoon",
     "oracle_title": "Tycoon",
-    "locale_title": "",
+    "locale_title": "大亨",
     "stripped_title": "Tycoon",
     "oracle_text": "Interface → <strong>1[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2[credit].",
     "locale_text": "",
@@ -61388,7 +61386,7 @@
   {
     "codename": "ubax",
     "oracle_title": "Ubax",
-    "locale_title": "",
+    "locale_title": "乌芭",
     "stripped_title": "Ubax",
     "oracle_text": "+1[mu]\nWhen your turn begins, draw 1 card.\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -61454,7 +61452,7 @@
   {
     "codename": "ultraviolet_clearance",
     "oracle_title": "Ultraviolet Clearance",
-    "locale_title": "",
+    "locale_title": "紫外许可",
     "stripped_title": "Ultraviolet Clearance",
     "oracle_text": "As an additional cost to play this operation, spend [click][click].\nGain 10[credit] and draw 4 cards. You may install 1 card from HQ.",
     "locale_text": "",
@@ -61523,7 +61521,7 @@
   {
     "codename": "under_the_bus",
     "oracle_title": "Under the Bus",
-    "locale_title": "",
+    "locale_title": "推入车底",
     "stripped_title": "Under the Bus",
     "oracle_text": "Play only if the Runner accessed a card during their last turn.\nTrash 1 installed <strong>connection</strong> resource and take 1 bad publicity.",
     "locale_text": "",
@@ -61624,7 +61622,7 @@
   {
     "codename": "underworld_contact",
     "oracle_title": "Underworld Contact",
-    "locale_title": "",
+    "locale_title": "秘密接触",
     "stripped_title": "Underworld Contact",
     "oracle_text": "When your turn begins, gain 1[credit] if you have at least 2[link].",
     "locale_text": "",
@@ -61922,7 +61920,7 @@
   {
     "codename": "upya",
     "oracle_title": "Upya",
-    "locale_title": "",
+    "locale_title": "新意",
     "stripped_title": "Upya",
     "oracle_text": "Whenever you make a successful run on R&D, you may place 1 power counter on this program.\nOnce per turn → [click], <strong>3 hosted power counters:</strong> Gain [click][click].",
     "locale_text": "",
@@ -61987,7 +61985,7 @@
   {
     "codename": "urban_renewal",
     "oracle_title": "Urban Renewal",
-    "locale_title": "",
+    "locale_title": "都市更新",
     "stripped_title": "Urban Renewal",
     "oracle_text": "Place 3 power counters on Urban Renewal when it is rezzed. When there are no power counters left on Urban Renewal, trash it and do 4 meat damage.\nWhen your turn begins, remove 1 power counter from Urban Renewal.",
     "locale_text": "",
@@ -62790,7 +62788,7 @@
   {
     "codename": "viktor_1_0",
     "oracle_title": "Viktor 1.0",
-    "locale_title": "",
+    "locale_title": "维克托1.0",
     "stripped_title": "Viktor 1.0",
     "oracle_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.",
     "locale_text": "",
@@ -62929,7 +62927,7 @@
   {
     "codename": "viral_weaponization",
     "oracle_title": "Viral Weaponization",
-    "locale_title": "",
+    "locale_title": "病毒武器化",
     "stripped_title": "Viral Weaponization",
     "oracle_text": "When the turn on which you scored Viral Weaponization ends, do 1 net damage for each card in the grip.",
     "locale_text": "",
@@ -63429,7 +63427,7 @@
   {
     "codename": "wake_up_call",
     "oracle_title": "Wake Up Call",
-    "locale_title": "",
+    "locale_title": "叫醒服务",
     "stripped_title": "Wake Up Call",
     "oracle_text": "Play only if the Runner trashed a Corp card during their last turn and the Runner has at least 1 installed piece of hardware or non-<strong>virtual</strong> resource.\nChoose 1 installed piece of hardware or non-<strong>virtual</strong> resource. The Runner must either trash that card or suffer 4 meat damage.\nRemove this operation from the game.",
     "locale_text": "",
@@ -63463,7 +63461,7 @@
   {
     "codename": "wall_of_static",
     "oracle_title": "Wall of Static",
-    "locale_title": "",
+    "locale_title": "静电墙",
     "stripped_title": "Wall of Static",
     "oracle_text": "[subroutine] End the run.",
     "locale_text": "",
@@ -63496,7 +63494,7 @@
   {
     "codename": "wall_of_thorns",
     "oracle_title": "Wall of Thorns",
-    "locale_title": "",
+    "locale_title": "荆棘墙",
     "stripped_title": "Wall of Thorns",
     "oracle_text": "[subroutine] Do 2 net damage.\n[subroutine] End the run.",
     "locale_text": "",
@@ -63597,7 +63595,7 @@
   {
     "codename": "warden_fatuma",
     "oracle_title": "Warden Fatuma",
-    "locale_title": "",
+    "locale_title": "监察员法图玛",
     "stripped_title": "Warden Fatuma",
     "oracle_text": "Each piece of rezzed <strong>bioroid</strong> ice gains \"[subroutine] The Runner loses [click], if able.\" before all of its other subroutines.",
     "locale_text": "",
@@ -63630,7 +63628,7 @@
   {
     "codename": "wari",
     "oracle_title": "Wari",
-    "locale_title": "",
+    "locale_title": "瓦里",
     "stripped_title": "Wari",
     "oracle_text": "The first time you make a successful run on HQ each turn, you may trash Wari to name <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong>. Expose a piece of ice, then add it to HQ if it has the named subtype.",
     "locale_text": "",
@@ -63695,7 +63693,7 @@
   {
     "codename": "warroid_tracker",
     "oracle_title": "Warroid Tracker",
-    "locale_title": "",
+    "locale_title": "生化战士追迹者",
     "stripped_title": "Warroid Tracker",
     "oracle_text": "Whenever the Runner trashes at least 1 card from this server, from its root, or protecting it, Trace[4]. If successful, the Runner trashes 2 of their installed cards.",
     "locale_text": "",
@@ -63828,7 +63826,7 @@
   {
     "codename": "watchtower",
     "oracle_title": "Watchtower",
-    "locale_title": "",
+    "locale_title": "岗楼",
     "stripped_title": "Watchtower",
     "oracle_text": "[subroutine] Search R&D for a card and add it to HQ. Shuffle R&D.",
     "locale_text": "",
@@ -63861,7 +63859,7 @@
   {
     "codename": "water_monopoly",
     "oracle_title": "Water Monopoly",
-    "locale_title": "",
+    "locale_title": "水权垄断",
     "stripped_title": "Water Monopoly",
     "oracle_text": "The install cost of each non-<strong>virtual</strong> resource is increased by 1.",
     "locale_text": "",
@@ -63928,7 +63926,7 @@
   {
     "codename": "weir",
     "oracle_title": "Weir",
-    "locale_title": "",
+    "locale_title": "围堰",
     "stripped_title": "Weir",
     "oracle_text": "[subroutine] The Runner loses [click].\n[subroutine] The Runner trashes 1 card from their grip.",
     "locale_text": "",
@@ -64193,7 +64191,7 @@
   {
     "codename": "whirlpool",
     "oracle_title": "Whirlpool",
-    "locale_title": "",
+    "locale_title": "漩涡",
     "stripped_title": "Whirlpool",
     "oracle_text": "[subroutine] The Runner cannot jack out for the remainder of this run. Trash Whirlpool.",
     "locale_text": "",
@@ -64259,7 +64257,7 @@
   {
     "codename": "white_hat",
     "oracle_title": "White Hat",
-    "locale_title": "",
+    "locale_title": "白帽",
     "stripped_title": "White Hat",
     "oracle_text": "Play only if you made a successful run on a central server this turn.\nForce the Corp to \"Trace[3]. If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\"",
     "locale_text": "",
@@ -65016,7 +65014,7 @@
   {
     "codename": "yagura",
     "oracle_title": "Yagura",
-    "locale_title": "",
+    "locale_title": "矢仓",
     "stripped_title": "Yagura",
     "oracle_text": "[subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[subroutine] Do 1 net damage.",
     "locale_text": "",
@@ -65150,7 +65148,7 @@
   {
     "codename": "yusuf",
     "oracle_title": "Yusuf",
-    "locale_title": "",
+    "locale_title": "尤素福",
     "stripped_title": "Yusuf",
     "oracle_text": "Whenever you make a successful run, you may place 1 virus counter on this program.\nInterface → <strong>Any virus counter:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>Any virus counter:</strong> +1 strength.",
     "locale_text": "",
@@ -65249,7 +65247,7 @@
   {
     "codename": "zamba",
     "oracle_title": "Zamba",
-    "locale_title": "",
+    "locale_title": "赞巴",
     "stripped_title": "Zamba",
     "oracle_text": "+2[mu]\nWhenever a Corp card is exposed, you may gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
     "locale_text": "",
@@ -65453,7 +65451,7 @@
   {
     "codename": "zer0",
     "oracle_title": "Zer0",
-    "locale_title": "",
+    "locale_title": "0点",
     "stripped_title": "Zer0",
     "oracle_text": "Once per turn → [click], <strong>suffer 1 net damage:</strong> Gain 1[credit] and draw 2 cards.",
     "locale_text": "",

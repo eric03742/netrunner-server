@@ -1,5 +1,5 @@
+import config from "./config.json";
 import "reflect-metadata";
-import path from "path";
 import { DataSource } from "typeorm";
 
 import {
@@ -9,11 +9,9 @@ import {
     CardEntity, PrintingEntity, RulingEntity,
 } from "netrunner-entities";
 
-const DATABASE_FILENAME = path.resolve(__dirname, "../db/netrunner.sqlite");
-
 export const NetrunnerDataSource = new DataSource({
-    database: DATABASE_FILENAME,
-    type: "better-sqlite3",
+    ...config,
+    type: "mysql",
     logging: [
         "error", "warn", "info", "log",
     ],
@@ -23,7 +21,4 @@ export const NetrunnerDataSource = new DataSource({
         FormatEntity, PoolEntity, RestrictionEntity, SnapshotEntity,
         CardEntity, PrintingEntity, RulingEntity
     ],
-    prepareDatabase: db => {
-        db.pragma('journal_mode = WAL');
-    },
 });
