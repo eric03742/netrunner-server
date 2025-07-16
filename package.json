@@ -36,8 +36,10 @@
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
     "test:e2e": "jest --config ./test/jest-e2e.json",
     "docker:build-dev": "docker buildx build --output \"type=image\" --tag \"eric03742/netrunner-server:latest\" --file \"./docker/Dockerfile\" .",
+
     "toolbox:build-scan": "tsx toolbox/build-scan.ts",
-    "toolbox:build-data": "tsx toolbox/build-data.ts"
+    "toolbox:build-data": "tsx toolbox/build-data.ts",
+    "toolbox:build-collection": "tsx toolbox/build-collection.ts"
   },
   "dependencies": {
     "@nestjs/common": "^11.0.1",
@@ -49,7 +51,7 @@
     "dotenv": "^16.5.0",
     "meilisearch": "^0.50.0",
     "mysql2": "^3.14.2",
-    "netrunner-entities": "^1.1.0",
+    "netrunner-entities": "^1.1.1",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
     "typeorm": "^0.3.23"
