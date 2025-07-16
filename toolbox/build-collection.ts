@@ -6,7 +6,7 @@ import { PrintingEntity } from "netrunner-entities";
 
 import { NetrunnerDataSource } from "./data-source";
 
-const OUTPUT_FILENAME = path.resolve(__dirname, "../static/all_cards.csv");
+const OUTPUT_FILENAME = path.resolve(__dirname, "../static/collection.csv");
 
 async function initialize(): Promise<void> {
     await NetrunnerDataSource.initialize();
