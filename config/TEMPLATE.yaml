@@ -1,0 +1,12 @@
+mysql:
+  host: 'localhost'
+  port: 8888
+  username: 'username'
+  password: 'P@55w0rd'
+  database: 'test'
+
+meilisearch:
+  host: 'localhost'
+  port: 8889
+  database: 'test'
+  secret: 'Th1s_1s_A_P@55w0rd'

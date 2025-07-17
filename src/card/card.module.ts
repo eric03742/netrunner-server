@@ -9,13 +9,15 @@ import { CardController } from "./card.controller";
 
 @Module({
     imports: [
-        TypeOrmModule.forFeature([CardEntity]),
+        TypeOrmModule.forFeature([
+            CardEntity,
+        ]),
     ],
     providers: [
         CardService,
     ],
     controllers: [
         CardController,
-    ]
+    ],
 })
 export class CardModule {}
